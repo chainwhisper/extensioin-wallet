@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro](README.md)
+* [介绍](README.md)
 * [Releases](release-log.md)
 * [Roadmap](roadmaop.md)
 

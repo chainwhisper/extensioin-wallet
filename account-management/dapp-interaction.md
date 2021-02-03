@@ -5,6 +5,8 @@ There are many dApps supporting Binance Chain wallet:
 * [https://exchange.pancakeswap.finance/](https://exchange.pancakeswap.finance/)
 * [http://bsc.bounce.finance/](http://bsc.bounce.finance/)
 * [https://app.beefy.finance/](https://app.beefy.finance/)
+* [https://bdollar.fi/](https://bdollar.fi/)
+*  [https://app.beefy.finance/](https://app.beefy.finance/)
 
 ## Getting Connected
 

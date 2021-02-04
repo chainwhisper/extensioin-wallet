@@ -12,6 +12,7 @@
   * [Add More Accounts](account-management/acc/add-account.md)
   * [Import/Recover Account](account-management/acc/untitled-2.md)
   * [Backup Accounts](account-management/acc/backup-wallet.md)
+  * [Edit Account Name](account-management/acc/edit-account-name.md)
   * [Connect to Ledger Nano S Hardware Wallet](account-management/acc/connect-to-ledger-nano-s-hardware-wallet.md)
 * [Asset Management](account-management/how-to-add-asset.md)
 * [dApp Integration](account-management/dapp-interaction.md)

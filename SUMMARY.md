@@ -31,7 +31,7 @@
 
 ## Binance Chain Staking
 
-* [Binance Chain Staking Guides](binance-chain-staking/untitled.md)
+* [Binance Chain Staking Guides](binance-chain-staking/staking.md)
 * [FAQ](binance-chain-staking/faq.md)
 * [Fees](binance-chain-staking/fees.md)
 

@@ -35,9 +35,9 @@
 
 ![img](https://lh5.googleusercontent.com/avie7-_5sa8jnI8XdFa1EytOMB9pZVULKQntno3hk3w3MuWJtwE9WNYayKTA0W7mymtJLG5mKZFk42TvUyGa_qSAi5rIH88LL2riKln35loCEHl3ntaqZEspWwUMbOgPdZbhOSp6)
 
-* your delegation overview
+* Click on "My Staking" to see your delegation overview
 
-![img](https://lh4.googleusercontent.com/m8hyetwRYQS-HLcubdSkuhjAAFDyWQptswGJKUWaAwcK-m1yVblM-5pXL599ogLJ1DjkKUo75WOzt6JUDxrnUNwNANDa1ZpuyHxlDxRg7enDF8jkhF70SkWeAPq6hAARAcphlaKw)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 You can see the staking history here
 
@@ -45,9 +45,9 @@ You can see the staking history here
 
 ## How to redelegate your BNB with extension wallet
 
-By staking you BNB, you participate in the selection process of Binance Smart Chain validators and earn rewards. Staking BNB is critical for securing the network. Validators can self-bond, meaning they can delegate BNB to themselves, and they can also receive delegations from any other BNB holders.
+By staking your BNB, you participate in the selection process of Binance Smart Chain validators and earn rewards. Staking BNB is critical for securing the network. Validators can self-bond, meaning they can delegate BNB to themselves, and they can also receive delegations from any other BNB holders.
 
-Redelegations between a unique delegator, source validator, and destination validator can only happen once every 7 days
+Redelegations between a unique delegator, source validator, and destination validator can only happen once every **7 days**
 
 * Click on redelegate
 
@@ -94,4 +94,16 @@ You will not be able to move your BNB for 7 days after undelegate
 * Refresh and see your delegation changes
 
 ![img](https://lh5.googleusercontent.com/EoteDGogJ7oGrTsixAXmc8aPxBivv_aODogbaKoSfAFVZEJJPeGFR0NJowM5f7U7plYWYN4sQ-mw-5U_6qLh3-7IiY88KWNNqCbX-BHmabyTUXefIrM30AjwAwDngKRsgJTb4EN1)
+
+## How to check my staking rewards
+
+
+
+* Click on "My Staking" to see your delegation overview
+
+![](../.gitbook/assets/image%20%2815%29.png)
+
+* Scroll down to "History" tab and click on "Reward"
+
+![](../.gitbook/assets/image%20%2816%29.png)
 

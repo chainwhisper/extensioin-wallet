@@ -71,6 +71,10 @@ Redelegations between a unique delegator, source validator, and destination vali
 
 ## How to undelegate your BNB with extension wallet
 
+{% hint style="warning" %}
+You will not be able to move your BNB for 7 days after undelegate
+{% endhint %}
+
 * Click on undelegate
 
 ![img](https://lh6.googleusercontent.com/FsvTIitDmIut49wYjPr6-gKRrQSx__IBKE7Ga74Uk1SPdH1WmuPFA50WLdsUmd8B78V9kemXA91F01rocBD53M0whofHnkMVE4bkydOdu8-ooGiNS9UlkN1Dv-KZnbcu_imph6_6)

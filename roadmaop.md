@@ -2,7 +2,7 @@
 description: The potential features of extension wallet
 ---
 
-# Roadmap
+# 路线图
 
 * [ ] Mobile App
 * [ ] Binance DEX support

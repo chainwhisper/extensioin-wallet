@@ -1,8 +1,8 @@
 # Table of contents
 
 * [介绍](README.md)
-* [Releases](release-log.md)
-* [Roadmap](roadmaop.md)
+* [发布历史](release-log.md)
+* [路线图](roadmaop.md)
 
 ## Guidelines and FAQ <a id="account-management"></a>
 

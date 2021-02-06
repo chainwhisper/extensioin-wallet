@@ -10,7 +10,7 @@
 * [Account Management](account-management/acc/README.md)
   * [Get Started](account-management/acc/get-started.md)
   * [Add More Accounts](account-management/acc/add-account.md)
-  * [Import/Recover Account](account-management/acc/untitled-2.md)
+  * [Import/Recover Account](account-management/acc/recover.md)
   * [Backup Accounts](account-management/acc/backup-wallet.md)
   * [Edit Account Name](account-management/acc/edit-account-name.md)
   * [Connect to Ledger Nano S Hardware Wallet](account-management/acc/connect-to-ledger-nano-s-hardware-wallet.md)

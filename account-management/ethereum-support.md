@@ -9,7 +9,7 @@ Binance Extension wallet supports Ethereum mainnet since Version 1.131.1.
 If you already have an account on Ethereum, it can be imported into Binance Extension wallet easily, you only need to:
 
 * Export seed phrase
-* [Recover your account](acc/untitled-2.md)
+* [Recover your account](acc/recover.md)
 
 ## What you can do
 

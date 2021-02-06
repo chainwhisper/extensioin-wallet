@@ -32,7 +32,7 @@ Then you should see your tokens in asset list.
 **If it's sent to accounts in a different wallet, please** 
 
 * Export seed phrase of this account 
-* [Recover your account](acc/untitled-2.md) in Binance Extension Wallet
+* [Recover your account](acc/recover.md) in Binance Extension Wallet
 * [Switch ](switch-network.md)to Ethereum  network
 * [Add your asset](how-to-add-asset.md#how-to-add-a-custom-token) 
 

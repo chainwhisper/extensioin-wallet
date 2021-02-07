@@ -11,7 +11,7 @@ By default, Binance Extension Wallet supports **3** networks:
 If you want to recover your funds sent to Ethereum network, please do the following:
 
 * Switch to Ethereum network 
-* [Add tokens ](../account-management/how-to-add-asset.md#how-to-add-a-custom-token)
+* [Add tokens ](../account-management/asset.md#how-to-add-a-custom-token)
 
 Afterwards, you will see your tokens in asset list. 
 

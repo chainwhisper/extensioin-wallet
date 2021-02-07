@@ -6,7 +6,7 @@ Many users who interact with a centralized exchange like Binance eventually want
 
 First, you'll need to use  Binance Chain Mainnet \(BC\) mainnet or Binance Smart Chain \(BSC\) mainnet
 
-Once you've [added the asset ](how-to-add-asset.md)to your wallet, you will be able to select different networks to view the assets held by your selected account on that network.
+Once you've [added the asset ](asset.md)to your wallet, you will be able to select different networks to view the assets held by your selected account on that network.
 
 ### 2. How Much BNB You Need To Send Tokens
 
@@ -25,7 +25,7 @@ No, you cannot now. The support will be added in future release.
 **If the fund is sent to one of your existing accounts, please** 
 
 * \*\*\*\*[Switch ](switch-network.md)to Ethereum  network
-* [Add your asset](how-to-add-asset.md#how-to-add-a-custom-token) 
+* [Add your asset](asset.md#how-to-add-a-custom-token) 
 
 Then you should see your tokens in asset list. 
 
@@ -34,7 +34,7 @@ Then you should see your tokens in asset list.
 * Export seed phrase of this account 
 * [Recover your account](acc/recover.md) in Binance Extension Wallet
 * [Switch ](switch-network.md)to Ethereum  network
-* [Add your asset](how-to-add-asset.md#how-to-add-a-custom-token) 
+* [Add your asset](asset.md#how-to-add-a-custom-token) 
 
 Then you should see your tokens in asset list. 
 

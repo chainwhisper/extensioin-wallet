@@ -14,7 +14,7 @@
   * [Backup Accounts](account-management/acc/backup-wallet.md)
   * [Edit Account Name](account-management/acc/edit-account-name.md)
   * [Connect to Ledger Nano S Hardware Wallet](account-management/acc/connect-to-ledger-nano-s-hardware-wallet.md)
-* [Asset Management](account-management/how-to-add-asset.md)
+* [Asset Management](account-management/asset.md)
 * [dApp Integration](account-management/dapp-interaction.md)
 * [Switch Network](account-management/switch-network.md)
 * [Ethereum Support](account-management/ethereum-support.md)

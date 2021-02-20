@@ -6,13 +6,13 @@ description: Binance Extension Wallet Relese Note
 
 ## Version 1.132.1 - 2021-2-18
 
-### Added
+### 新增
 
 * New UI for wallet direct balance and transaction history. 
 * Wallet Direct on address dropdown menu. 
 * Change trust sites from global to address level. 
 
-### Fixed
+### 修复
 
 * Hide wallet direct receive on non-bind address
 * Settings and network display issue on Ledger account

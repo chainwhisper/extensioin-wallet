@@ -4,6 +4,24 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
+## Version 1.132.1 - 2021-2-18
+
+### Added
+
+* New UI for wallet direct balance and transaction history. 
+* Wallet Direct on address dropdown menu. 
+* Change trust sites from global to address level. 
+
+### Fixed
+
+* Hide wallet direct receive on non-bind address
+* Settings and network display issue on Ledger account
+* Can send another transaction when  pending on BSC and ETH.
+* Make native asset alwsays the first on the list.
+* Limit decimal to 8 when cross transfer from BSC to BC. 
+* Clean cache of previous send transaction. 
+* Some other UI improvements.
+
 ## Version 1.131.1 - 2021-01-20
 
 ### Added

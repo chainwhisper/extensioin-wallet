@@ -4,6 +4,22 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
+## Version 1.135.3 released on Firefox only
+
+### Added
+
+* Support import private key for Binance Chain, Binance Smart Chain and Ethereum
+
+### Fixed
+
+* Disable wallet direct for ledger account
+* Disable wallet direct on testnet
+* Disable BSC cross transfer to BC address with MEMO required
+
+### Changed
+
+* UI improvement.
+
 ## Version 1.132.1 - 2021-2-18
 
 ### Added

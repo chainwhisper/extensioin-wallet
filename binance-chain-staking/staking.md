@@ -83,7 +83,7 @@ You will not be able to move your BNB for 7 days after undelegate
 
 ![img](https://lh3.googleusercontent.com/dMuio1mZQGq4AmKKR-GPLYkBFLl3U2F4G-Ddm8qKKAdD682LjIMI97rCzx-GFd4pxMcsVvCwszUXUbxnO-txr3bmHd3EcqL1Qw-mqMG61S0Tj49VA7toQmyd8rDqPqYo24kK2mow)
 
-* Confirm your transaction in extension wallet
+* Confirm your transaction in the extension wallet
 
 ![img](https://lh6.googleusercontent.com/2BBgV-Em4WudnNIeYPHGqxNSYKL0W-jW6-MFZ0L4sC7xl7TVSIccV6lslr6uJrnP28W9D7O9Qkr5MUhLp48aew1-tI-pD8gW_1aorPr7BX8l9v75zd9KaXWV1U3bzwjN4yyxAA0o)
 

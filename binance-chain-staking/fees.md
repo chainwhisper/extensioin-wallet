@@ -1,3 +1,7 @@
+---
+description: Staking related fees
+---
+
 # Fees
 
 | Transaction Type | Pay in BNB |

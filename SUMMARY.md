@@ -35,6 +35,7 @@
 * [FAQ](binance-chain-staking/faq.md)
 * [Fees](binance-chain-staking/fees.md)
 * [Binance Smart Chain Validators](https://www.binance.org/en/staking)
+* [Math Wallet tutorial](https://blog.mathwallet.org/?p=2054)
 * [Trust Wallet tutorial](https://community.trustwallet.com/t/bnb-staking-with-trust-wallet/113243)
 
 ## Community Group

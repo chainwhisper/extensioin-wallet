@@ -11,6 +11,7 @@
   * [Get Started](account-management/acc/get-started.md)
   * [Add More Accounts](account-management/acc/add-account.md)
   * [Import/Recover Account](account-management/acc/recover.md)
+  * [How to Import Account with Private Key](account-management/acc/how-to-import-account-with-private-key.md)
   * [Backup Accounts](account-management/acc/backup-wallet.md)
   * [Edit Account Name](account-management/acc/edit-account-name.md)
   * [Connect to Ledger Nano S Hardware Wallet](account-management/acc/connect-to-ledger-nano-s-hardware-wallet.md)
@@ -57,5 +58,5 @@
 
 ---
 
-* [How to Import Account with Private Key](how-to-import-account-with-private-key.md)
+* [Staking With Ledger Hardware](staking-with-ledger-hardware.md)
 

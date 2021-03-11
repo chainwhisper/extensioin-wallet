@@ -4,6 +4,13 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
+## Version 1.136.1 - 2021-3-11
+
+### Added
+
+* Support Ledger Hardware for Binance Chain
+* Support staking with Ledger Hardware wallet
+
 ## Version 1.135.3 - 2021-3-5
 
 ### Added
@@ -12,8 +19,8 @@ description: Binance Extension Wallet Relese Note
 
 ### Fixed
 
-* Disable wallet direct for ledger account
-* Disable wallet direct on testnet
+* Disable wallet-direct for Ledger account
+* Disable wallet-direct on testnet
 * Disable BSC cross transfer to BC address with MEMO required
 
 ### Changed

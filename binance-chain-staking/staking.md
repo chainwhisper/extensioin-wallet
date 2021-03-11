@@ -47,7 +47,15 @@ You can see the staking history here
 
 ## How to redelegate your BNB with extension wallet
 
+{% hint style="info" %}
+Your BNB are still staked
+{% endhint %}
+
 You can choose to move your staked BNB to a different validator by sending a _**redelegate**_ transaction. For example, you can redelegate from validator A to validator B.  Your BNB are still staked, and you can receive rewards from validator B since next 00:00 UTC
+
+{% hint style="info" %}
+You cannot redelegate too frequently
+{% endhint %}
 
 Redelegations between a unique delegator, source validator, and destination validator can only happen once every **7 days**
 
@@ -74,10 +82,14 @@ Redelegations between a unique delegator, source validator, and destination vali
 ## How to undelegate your BNB with extension wallet
 
 {% hint style="warning" %}
-You will not be able to move your BNB for 7 days after undelegate
+You will not be able to receive staking rewards for 7 days after undelegation
 {% endhint %}
 
-* Click on undelegate
+{% hint style="info" %}
+You will not be able to move your BNB for 7 days after the first _undelegate transaction_
+{% endhint %}
+
+* Click **undelegate** button
 
 ![img](https://lh6.googleusercontent.com/FsvTIitDmIut49wYjPr6-gKRrQSx__IBKE7Ga74Uk1SPdH1WmuPFA50WLdsUmd8B78V9kemXA91F01rocBD53M0whofHnkMVE4bkydOdu8-ooGiNS9UlkN1Dv-KZnbcu_imph6_6)
 

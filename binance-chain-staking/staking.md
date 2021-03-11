@@ -1,5 +1,7 @@
 # Binance Chain Staking Guides
 
+By staking your **BNB**, you participate in the selection process of Binance Smart Chain validators and earn rewards. Staking BNB is critical for securing the network. Validators can self-bond, meaning they can delegate BNB to themselves, and they can also receive delegations from any other BNB holders.
+
 ## How to delegate your BNB with Binance Extension wallet
 
 * [Install Binance Chain extension wallet](../#download-link)
@@ -45,7 +47,7 @@ You can see the staking history here
 
 ## How to redelegate your BNB with extension wallet
 
-By staking your BNB, you participate in the selection process of Binance Smart Chain validators and earn rewards. Staking BNB is critical for securing the network. Validators can self-bond, meaning they can delegate BNB to themselves, and they can also receive delegations from any other BNB holders.
+You can choose to move your staked BNB to a different validator by sending a _**redelegate**_ transaction. For example, you can redelegate from validator A to validator B.  Your BNB are still staked, and you can receive rewards from validator B since next 00:00 UTC
 
 Redelegations between a unique delegator, source validator, and destination validator can only happen once every **7 days**
 

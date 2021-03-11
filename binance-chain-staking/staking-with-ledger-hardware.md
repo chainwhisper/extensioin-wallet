@@ -1,5 +1,9 @@
 # Staking With Ledger Hardware
 
+{% hint style="warning" %}
+Since v1.136.1, Binance Extension Wallet is released with Ledger Nano S for staking. 
+{% endhint %}
+
 {% hint style="info" %}
 Please note that the integration with Nano X is still under development. It will be ready in the next release.
 {% endhint %}

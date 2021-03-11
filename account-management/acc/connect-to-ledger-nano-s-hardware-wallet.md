@@ -1,10 +1,6 @@
 # Connect to Ledger Nano S Hardware Wallet
 
-Since v1.121.1, Binance Extension Wallet is relased with Ledger Nano S and X support 
-
-{% hint style="warning" %}
-Ledger Nano S and X support only Binance Smart Chain and Etheruem networks
-{% endhint %}
+Since v1.121.1, Binance Extension Wallet is released with Ledger Nano S and X support
 
 **What you need:**
 

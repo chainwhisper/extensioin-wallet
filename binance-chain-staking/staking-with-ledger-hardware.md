@@ -20,7 +20,7 @@ Follow this [guide](../account-management/acc/connect-to-ledger-nano-s-hardware-
 ### **Delegate Example**
 
 {% hint style="info" %}
-**Please make sure you have opened Binance App on Ledger**
+Please make sure you have opened **Binance App** on Ledger
 {% endhint %}
 
 ### Connect to BEW

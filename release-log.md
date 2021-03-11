@@ -4,7 +4,7 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
-## Version 1.135.3 released on Firefox only
+## Version 1.135.3 - 2021-3-5
 
 ### Added
 

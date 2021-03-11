@@ -55,3 +55,7 @@
 * [BscScan](https://bscscan.com/)
 * [Testnet Faucet](https://testnet.binance.org/faucet-smart/)
 
+---
+
+* [How to Import Account with Private Key](how-to-import-account-with-private-key.md)
+

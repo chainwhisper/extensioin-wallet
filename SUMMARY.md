@@ -33,6 +33,7 @@
 ## Binance Chain Staking
 
 * [Binance Chain Staking Guides](binance-chain-staking/staking.md)
+* [Staking With Ledger Hardware](binance-chain-staking/staking-with-ledger-hardware.md)
 * [FAQ](binance-chain-staking/faq.md)
 * [Fees](binance-chain-staking/fees.md)
 * [Binance Smart Chain Validators](https://www.binance.org/en/staking)
@@ -55,8 +56,4 @@
 
 * [BscScan](https://bscscan.com/)
 * [Testnet Faucet](https://testnet.binance.org/faucet-smart/)
-
----
-
-* [Staking With Ledger Hardware](staking-with-ledger-hardware.md)
 

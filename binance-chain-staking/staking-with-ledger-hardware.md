@@ -51,5 +51,9 @@ Then go ahead and approve your transaction on your device
 
 You have to approve this signature soon.
 
+2. Locked Device
 
+You have to unlock it before sending any transactions
+
+![](../.gitbook/assets/image%20%2832%29.png)
 

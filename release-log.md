@@ -9,7 +9,7 @@ description: Binance Extension Wallet Relese Note
 ### Added
 
 * Support Ledger Hardware for Binance Chain
-* Support staking with Ledger Hardware wallet
+* Support staking with [Ledger Hardware wallet](binance-chain-staking/staking-with-ledger-hardware.md)
 
 ## Version 1.135.3 - 2021-3-5
 

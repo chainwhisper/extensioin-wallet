@@ -31,6 +31,7 @@
 ## Binance Chain Staking
 
 * [Binance Chain Staking Guides](binance-chain-staking/untitled.md)
+* [BNB抵押指南](https://mp.weixin.qq.com/s/Po99NrS-GhBLprG3IMSZNA)
 * [FAQ](binance-chain-staking/faq.md)
 * [Fees](binance-chain-staking/fees.md)
 

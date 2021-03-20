@@ -20,6 +20,16 @@ No, you cannot.
 
 After you sent \`undelegate\` transaction, you have to wait 7 days. This period starts at UTC 00:00 next day 
 
+## When can I redelegate my staked BNB?
+
+You can choose to move your staked BNB to a different validator by sending a _**redelegate**_ transaction. For example, you can redelegate from validator A to validator B.  Your BNB are still staked, and you can receive rewards from validator B since next 00:00 UTC
+
+Redelegations between a unique delegator, source validator, and destination validator can only happen once every **7 days**
+
+ 
+
+
+
 
 
 

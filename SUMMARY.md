@@ -57,3 +57,7 @@
 * [BscScan](https://bscscan.com/)
 * [Testnet Faucet](https://testnet.binance.org/faucet-smart/)
 
+---
+
+* [Binance Chain Staking API](binance-chain-staking-api.md)
+

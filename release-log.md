@@ -4,6 +4,13 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
+## Version 1.138.3 - 2021-3-19
+
+### Hotfix
+
+* Fix integration with pancake swap on all pages and actions.
+* Sometimes insufficient balance error on dApp contract call fix.
+
 ## Version 1.136.1 - 2021-3-11
 
 ### Added

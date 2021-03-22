@@ -290,11 +290,287 @@ https://api.binance.org/v1/staking/chains/bsc/validators/bva1xnudjls7x4p48qrk0j2
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
+{% api-method-parameter name="validator" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="chain-id" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="limit" type="string" required=true %}
 
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="offset" type="string" required=true %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+{"total":2731,"operations":[{"delegator":"bnb15n6gn9wrx5tqn2d39wyqmmmr7uksjsdalvqvrf","operationType":1,"amount":1.06000000,"srcValidator":null,"validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","time":"2021-03-22T12:20:33.000+00:00","txHash":"2D286AE041A1CA984F68CFE81DAB01D940545C13B9E10FEB768E2740A76C0706"},{"delegator":"bnb1njyev59y2e72f87rn3st2a2l00qy7ra379rjq3","operationType":1,"amount":3.48380339,"srcValidator":null,"validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","time":"2021-03-22T12:12:17.000+00:00","txHash":"036FB424F2B184E7AB3C413D62577CD0FDA043E246E285F27D6FB19CFA048C84"}]}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="get" host="https://api.binance.org" path="/v1/staking/chains/{chain-id}/delegators/{delegator}/delegations" %}
+{% api-method-summary %}
+Query a delegator's all delegations
+{% endapi-method-summary %}
+
+{% api-method-description %}
+https://api.binance.org/v1/staking/chains/bsc/delegators/bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k/delegations?offset=0&limit=25
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="delegator" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="offset" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="limit" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="chain-id" type="string" required=true %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+{"total":1775,"delegations":[{"delegator":"bnb1hl5s3avve8a5jfwdd27z6wluwtyf6htysw5843","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","amount":93035.00000000,"initialTime":"2021-03-10T12:35:53.000+00:00"},{"delegator":"bnb1rjlwxspjzps3thswqdd9g6924r87n2s24pp656","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","amount":58673.10000000,"initialTime":"2021-03-04T15:45:28.000+00:00"}]}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="get" host="https://api.binance.org" path="/v1/staking/chains/{chain-id}/delegators/{delegator}/rewards" %}
+{% api-method-summary %}
+Query a delegator's rewards
+{% endapi-method-summary %}
+
+{% api-method-description %}
+https://api.binance.org/v1/staking/chains/bsc/delegators/bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k/rewards?offset=0&limit=25
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="chain-id" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="limit" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="offset" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="delegator" type="string" required=true %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+{"total":10,"rewardDetails":[{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":5.83083894,"height":151723179,"rewardTime":"2021-03-22T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":6.74014297,"height":151502250,"rewardTime":"2021-03-21T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":7.90245193,"height":151281138,"rewardTime":"2021-03-20T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":6.96295918,"height":151060671,"rewardTime":"2021-03-19T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":8.32474336,"height":150839987,"rewardTime":"2021-03-18T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":7.40895153,"height":150618655,"rewardTime":"2021-03-17T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":6.83010510,"height":150398125,"rewardTime":"2021-03-16T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":5.79312267,"height":150190580,"rewardTime":"2021-03-15T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":2.31363548,"height":149986931,"rewardTime":"2021-03-14T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":2.39008720,"height":149782539,"rewardTime":"2021-03-13T00:00:00.000+00:00"}]}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="get" host="https://api.binance.org" path="/v1/staking/chains/{chain-id}/delegators/{delegator}/operations" %}
+{% api-method-summary %}
+Query a delegator's operations
+{% endapi-method-summary %}
+
+{% api-method-description %}
+https://api.binance.org/v1/staking/chains/bsc/delegators/bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k/rewards?offset=0&limit=25
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="limit" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="offset" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="delegator" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="chain-id" type="string" required=true %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+{"total":10,"rewardDetails":[{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":5.83083894,"height":151723179,"rewardTime":"2021-03-22T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":6.74014297,"height":151502250,"rewardTime":"2021-03-21T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":7.90245193,"height":151281138,"rewardTime":"2021-03-20T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":6.96295918,"height":151060671,"rewardTime":"2021-03-19T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":8.32474336,"height":150839987,"rewardTime":"2021-03-18T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":7.40895153,"height":150618655,"rewardTime":"2021-03-17T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":6.83010510,"height":150398125,"rewardTime":"2021-03-16T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":5.79312267,"height":150190580,"rewardTime":"2021-03-15T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":2.31363548,"height":149986931,"rewardTime":"2021-03-14T00:00:00.000+00:00"},{"chainId":"bsc","validator":"bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j","valName":"Ankr_BSC_validator_1","delegator":"bnb1xnudjls7x4p48qrk0j247htt7rl2k2dzpd6n0k","reward":2.39008720,"height":149782539,"rewardTime":"2021-03-13T00:00:00.000+00:00"}]}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="get" host="https://api.binance.org" path="/v1/staking/chains/{chain-id}/delegators/{delegator}/ubds" %}
+{% api-method-summary %}
+Query a delegator's unbonding operations
+{% endapi-method-summary %}
+
+{% api-method-description %}
+https://api.binance.org/v1/staking/chains/bsc/delegators/bnb1mvynqwzhhc7cumxnemhe70lzmed4t0ksk7s8ym/ubds?offset=0&limit=25
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="limit" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="offset" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="delegator" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="chain-id" type="string" required=true %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+{"total":0,"unbondingDelegations":[]}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="get" host="https://api.binance.org" path="/v1/staking/chains/{chain-id}/delegators/{delegator}/reds" %}
+{% api-method-summary %}
+Query a delegator's redelegation
+{% endapi-method-summary %}
+
+{% api-method-description %}
+https://api.binance.org/v1/staking/chains/bsc/delegators/bnb1mvynqwzhhc7cumxnemhe70lzmed4t0ksk7s8ym/reds?offset=0&limit=25
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="limit" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="offset" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="delegator" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="chain-id" type="string" required=true %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+{"total":0,"redelegations":[]}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="get" host="https://api.binance.org" path="/v1/staking/chains/{chain-id}/delegators/{delegator}/allowed-dst-validators" %}
+{% api-method-summary %}
+Query possible validators for a delegator
+{% endapi-method-summary %}
+
+{% api-method-description %}
+https://api.binance.org/v1/staking/chains/bsc/delegators/bnb1mvynqwzhhc7cumxnemhe70lzmed4t0ksk7s8ym/allowed-dst-validators?offset=0&limit=25&src-validator=bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="offset" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="limit" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="validator" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="delegator" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="chain-id" type="string" required=true %}
 
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}

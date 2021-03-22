@@ -26,7 +26,20 @@ You can choose to move your staked BNB to a different validator by sending a _**
 
 Redelegations between a unique delegator, source validator, and destination validator can only happen once every **7 days**
 
- 
+## What's the potential loss for validators?
+
+Validators can suffer from “Slashing”, a punishment for their bad behaviors, such as double-sign and/or instability. Validator's self-staked BNB will be slashed, but such loss will not be shared by their delegators.
+
+Slashing is a punitive function that is triggered by a validator's bad actions. Getting slashed is losing self delegation of a validator. Validators will be slashed for the actions below:
+
+* Going offline or unable to communicate with the network.
+* Double signing. If a validator node tries to split the network by signing two different blocks and broadcasting them, it will be removed from the validator set definitely.
+
+**Details:** [**https://docs.binance.org/guides/concepts/bc-slashing.html**](https://docs.binance.org/guides/concepts/bc-slashing.html)\*\*\*\*
+
+## What's the potential loss for **delegators**?
+
+The only risk for delegators is the loss of rewards when their staked validator is slashed. Their staked BNB will not be impacted. 
 
 
 

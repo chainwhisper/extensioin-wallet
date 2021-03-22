@@ -228,16 +228,24 @@ https://api.binance.org/v1/staking/chains/bsc/validators/bva1xnudjls7x4p48qrk0j2
 
 {% api-method method="get" host="https://api.binance.org" path="/v1/staking/chains/{chain-id}/validators/{validator}/operations" %}
 {% api-method-summary %}
-Query validiator related staking operation 
+Query validator related staking operation 
 {% endapi-method-summary %}
 
 {% api-method-description %}
-
+https://api.binance.org/v1/staking/chains/bsc/validators/bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j/operations?offset=0&limit=25
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
+{% api-method-parameter name="limit" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="offset" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="validator" type="string" required=true %}
 
 {% endapi-method-parameter %}
@@ -270,5 +278,39 @@ Query validiator related staking operation
 {% endapi-method-spec %}
 {% endapi-method %}
 
+{% api-method method="get" host="https://api.binance.org" path="/v1/staking/chains/{chain-id}/validators/{validator}/delegations" %}
+{% api-method-summary %}
+Query a validator's delegator
+{% endapi-method-summary %}
 
+{% api-method-description %}
+https://api.binance.org/v1/staking/chains/bsc/validators/bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j/delegations?offset=0&limit=25 
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="limit" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="offset" type="string" required=true %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
 

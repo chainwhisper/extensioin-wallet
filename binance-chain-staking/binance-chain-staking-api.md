@@ -138,3 +138,43 @@ https://api.binance.org/v1/staking/chains/bsc/validators/bva1xnudjls7x4p48qrk0j2
 {% endapi-method-spec %}
 {% endapi-method %}
 
+{% api-method method="get" host="https://api.binance.org" path="/v1/staking/chains/{chain-id}/validators/{validator}/rewards" %}
+{% api-method-summary %}
+Query validator rewards
+{% endapi-method-summary %}
+
+{% api-method-description %}
+https://testnet-api.binance.org/v1/staking/chains/chapel/validators/bva1pnww8kx30sz4xfcqvn8wjhrn796nf4dq77hcpa/rewards?startTime=1615766400&endTime=1615951226
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="endTime" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="startTime" type="string" required=true %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="chain-id" type="string" required=true %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+[{"chainId":"chapel","validator":"bva1pnww8kx30sz4xfcqvn8wjhrn796nf4dq77hcpa","selfDelegator":"tbnb1pnww8kx30sz4xfcqvn8wjhrn796nf4dqshlvlg","valTokens":614032.30000001,"totalReward":30.57288394,"commission":22.92966296,"height":9890728,"rewardTime":"2021-03-17T00:00:01.000+00:00"},{"chainId":"chapel","validator":"bva1pnww8kx30sz4xfcqvn8wjhrn796nf4dq77hcpa","selfDelegator":"tbnb1pnww8kx30sz4xfcqvn8wjhrn796nf4dqshlvlg","valTokens":614032.30000001,"totalReward":29.70757612,"commission":22.28068209,"height":9852940,"rewardTime":"2021-03-16T00:00:00.000+00:00"},{"chainId":"chapel","validator":"bva1pnww8kx30sz4xfcqvn8wjhrn796nf4dq77hcpa","selfDelegator":"tbnb1pnww8kx30sz4xfcqvn8wjhrn796nf4dqshlvlg","valTokens":614032.30000001,"totalReward":20.23077415,"commission":15.17308061,"height":9815440,"rewardTime":"2021-03-15T00:00:00.000+00:00"}]
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+

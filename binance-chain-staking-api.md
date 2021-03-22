@@ -106,3 +106,35 @@ https://testnet-api.binance.org/v1/staking/chains/chapel/validators?limit=25&off
 {% endapi-method-spec %}
 {% endapi-method %}
 
+{% api-method method="get" host="https://api.binance.org" path="/v1/staking/chains/{chain-id}/validators/{validator}" %}
+{% api-method-summary %}
+Query validator details
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="chain-id" type="string" required=true %}
+bsc or chapel
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+https://api.binance.org/v1/staking/chains/bsc/validators/bva1xnudjls7x4p48qrk0j247htt7rl2k2dzp3mr3j
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+

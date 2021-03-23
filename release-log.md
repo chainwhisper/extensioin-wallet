@@ -4,6 +4,12 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
+## Version 1.138.5 - 2021-3-22
+
+### Hotfix
+
+* Fix customize Ethereum transaction gas limit
+
 ## Version 1.138.3 - 2021-3-19
 
 ### Hotfix

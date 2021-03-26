@@ -8,7 +8,13 @@
 
 ![](../../.gitbook/assets/image%20%2830%29.png)
 
-### Select Network Type
+
+
+{% hint style="info" %}
+If you have upgraded to v1.139.0, you don't need to select the network type. Three accounts will be generated at the same time
+{% endhint %}
+
+### ~~Select Network Type~~ \[only for version before v1.139.0 \]
 
 There are three options: BC, BSC and Ethereum
 

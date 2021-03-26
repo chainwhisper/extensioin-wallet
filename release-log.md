@@ -4,6 +4,17 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
+## Version 1.139.0 on **Firefox**  - 2021-3-26
+
+### **Improvements**
+
+display BNB 4 decimals on home page.
+
+### Added
+
+* Account name validation
+* Import private key directly support for all blockchains: Binance Chain, Binance Smart Chain, Ethereum
+
 ## Version 1.138.5 - 2021-3-22
 
 ### Hotfix

@@ -1,4 +1,4 @@
-# How to Import Account with Private Key
+# How to Import An Account with Private Key
 
 ### Unlock your wallet
 

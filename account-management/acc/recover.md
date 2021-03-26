@@ -1,4 +1,4 @@
-# Import/Recover Account
+# Import/Recover Wallet
 
 When resetting your password for your Binance Extension wallet, you will need your 12 or 24 word seed phrase. If you do not already have your seed phrase saved someplace safe, please make sure to read [How to Reveal Your Seed Phrase](backup-wallet.md).
 

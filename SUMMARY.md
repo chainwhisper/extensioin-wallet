@@ -58,3 +58,8 @@
 * [BscScan](https://bscscan.com/)
 * [Testnet Faucet](https://testnet.binance.org/faucet-smart/)
 
+## Binance DEX
+
+* [How to trade with Binance Chain Extension wallet](binance-dex/how-to-trade-with-binance-chain-extension-wallet.md)
+* [Binance DEX](https://www.binance.org/en/trade)
+

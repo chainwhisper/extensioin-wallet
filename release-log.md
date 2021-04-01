@@ -14,6 +14,7 @@ display BNB 4 decimals on home page.
 
 * Account name validation
 * Import private key directly support for all blockchains: Binance Chain, Binance Smart Chain, Ethereum
+* [Binance DEX trading](binance-dex/how-to-trade-with-binance-chain-extension-wallet.md)
 
 ## Version 1.138.5 - 2021-3-22
 

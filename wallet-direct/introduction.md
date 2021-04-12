@@ -15,7 +15,7 @@
 ### Prerequisites
 
 * Binance.com Account SetupEnable two-factor authentication for your Binance.com account \(The balance cannot be zero\)
-* Install Binance Chain Extension WalletInstall the latest **v1.131.11** :
+* Install Binance Chain Extension WalletInstall the later than **v1.131.11** :
   * Chrome App Store Link: [https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp](https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp)
   * Firefox App Store Link: [https://addons.mozilla.org/en-US/firefox/addon/binance-chain/?src=search](https://addons.mozilla.org/en-US/firefox/addon/binance-chain/?src=search)
 * Create an account. You cannot use the accounts imported from your Ledger hardware wallet.

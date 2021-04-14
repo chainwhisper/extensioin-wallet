@@ -4,7 +4,17 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
-## Version 1.139.0 on **Firefox**  - 2021-3-26
+## Version 1.141.6 **** - 2021-4-12
+
+### Added
+
+* Support BSC staking pages
+
+### Fixed
+
+* Fix send from BSC input amount will trigger send in middle.
+
+## Version 1.139.0 **** - 2021-3-26
 
 ### **Improvements**
 

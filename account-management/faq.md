@@ -10,7 +10,7 @@ Once you've [added the asset ](asset.md)to your wallet, you will be able to sele
 
 ### 2. How Much BNB You Need To Send Tokens on BSC
 
-A standard Ether transfer TX will be 21000 gas & a gas price of 20 GWEI. With tokens, the amount of gas is typically gas, so the total TX fee increases to **0.002 BNB** - **0.003 BNB**.
+A standard Ether transfer TX will be 21000 gas & a gas price of 5 GWEI. With tokens, the amount of gas is typically gas, so the total TX fee increases to **0.0005 BNB** - **0.0006 BNB**.
 
 if you try to send tokens without having any BNB in your account you will be told you have insufficient funds. This means you do not have enough BNB in your account to cover the cost of gas. Each transaction \(including token and contract transactions\) require gas and that gas is paid in BNB. You can think of this like a transaction fee.
 

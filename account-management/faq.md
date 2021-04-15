@@ -18,7 +18,7 @@ You can remedy this by sending 0.001 BNB to that account in order to be able to 
 
 ### 3. Can I use Extension wallet for Binance DEX
 
-No, you cannot now. The support will be added in future release.  
+Yes, you can now.
 
 ### 4.  Recover fund send to Ethereum network
 

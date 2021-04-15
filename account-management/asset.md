@@ -1,6 +1,6 @@
 # Asset Management
 
-## How to Add Pegged Token of Binance Chain and Binnance Smart Chain
+## How to Add BEP20 Token of Binance Chain and Binance Smart Chain
 
 By default, Binance Chain Extension wallet will only show BNB your balance.
 

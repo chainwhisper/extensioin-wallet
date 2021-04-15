@@ -8,7 +8,7 @@ First, you'll need to use  Binance Chain Mainnet \(BC\) mainnet or Binance Smart
 
 Once you've [added the asset ](asset.md)to your wallet, you will be able to select different networks to view the assets held by your selected account on that network.
 
-### 2. How Much BNB You Need To Send Tokens
+### 2. How Much BNB You Need To Send Tokens on BSC
 
 A standard Ether transfer TX will be 21000 gas & a gas price of 20 GWEI. With tokens, the amount of gas is typically gas, so the total TX fee increases to **0.002 BNB** - **0.003 BNB**.
 

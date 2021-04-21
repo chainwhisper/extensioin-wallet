@@ -4,6 +4,12 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
+## Version 1.143.2 **** - 2021-4-21
+
+### Added
+
+* Integrated with Torus to support Google account login wallet.
+
 ## Version 1.141.6 **** - 2021-4-12
 
 ### Added

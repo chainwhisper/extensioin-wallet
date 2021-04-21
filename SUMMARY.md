@@ -63,3 +63,7 @@
 * [How to trade with Binance Chain Extension wallet](binance-dex/how-to-trade-with-binance-chain-extension-wallet.md)
 * [Binance DEX](https://www.binance.org/en/trade)
 
+## torus
+
+* [How to Create a new tKey wallet](torus/how-to-create-a-new-tkey-wallet.md)
+

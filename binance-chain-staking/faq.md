@@ -43,6 +43,24 @@ Slashing is a punitive function that is triggered by a validator's bad actions. 
 
 The only risk for delegators is the loss of rewards when their staked validator is slashed. Their staked BNB will not be impacted. 
 
+### What is commission rate?
+
+* Commission rate: delegators have to pay commission to validators.
+
+Let us also assume that the reward for a block is 100 BNB and that a certain validator has 20% of self-bonded BNB and sets its commission rate to 20%. These tokens do not go directly to the proposer. Instead, they are shared among validators and delegators. These 100 BNB will be distributed according to each participant's stake:
+
+Commission: 80\*20%= 16 BNB Validator gets: 100\*20% + Commission = 36 BNB All delegators get: 100\*80% - Commission = 64 BNB
+
+* Max Change of Rate: ​The maximum commission change rate percentage \(per day\). 
+* Max Rate:​ ​The maximum commission rate a validator can charge
+
+### What does the APR mean?
+
+Annual Percentage Rate \(APR\) is the annual rate of rewards paid to delegators. The rewards are net of commission. The calculation is based on the income of this validator 2 days ago. It is not compounded and updated every 24 hours.   
+
+
+
+
 
 
 

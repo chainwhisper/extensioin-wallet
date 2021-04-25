@@ -28,7 +28,9 @@ Redelegations between a unique delegator, source validator, and destination vali
 
 ## What's the potential loss for validators?
 
-Validators can suffer from “Slashing”, a punishment for their bad behaviors, such as double-sign and/or instability. Validator's self-staked BNB will be slashed, but such loss will not be shared by their delegators.
+Validators can suffer from “Slashing”, a punishment for their bad behaviors, such as double-sign and/or instability. Validator's self-staked BNB will be slashed, but such loss will not be shared by their delegators. A slashed validator is shown as "in jail".
+
+![](../.gitbook/assets/image%20%2837%29.png)
 
 Slashing is a punitive function that is triggered by a validator's bad actions. Getting slashed is losing self delegation of a validator. Validators will be slashed for the actions below:
 

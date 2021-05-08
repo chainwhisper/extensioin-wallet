@@ -14,7 +14,7 @@ description: You can backup your accounts by exporting private keys
 
 You may use your seed phrase to import a particular account on another wallet.  Here's how:
 
-1. Go to "Settings" &gt;&gt; "Privacy"
+1. Go to "Settings" &gt;&gt; "View Seed Phrase"
 2. Input your password
 
 ![](../../.gitbook/assets/image%20%284%29.png)

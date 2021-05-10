@@ -61,6 +61,7 @@
 ## Binance DEX
 
 * [How to trade with Binance Chain Extension wallet](binance-dex/how-to-trade-with-binance-chain-extension-wallet.md)
+* [How to Manage BEP2 tokens](binance-dex/how-to-manage-bep2-tokens.md)
 * [Binance DEX](https://www.binance.org/en/trade)
 
 ## torus

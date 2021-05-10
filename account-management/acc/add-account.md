@@ -2,7 +2,11 @@
 description: Advanced Account Management
 ---
 
-# Add More Accounts
+# Add/Hide Accounts
+
+## How to Add Accounts
+
+### Account Derivation Mechanism
 
 [Bitcoin Improvement Proposal \(BIP\) 39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki) defines a formula for
 
@@ -12,4 +16,28 @@ description: Advanced Account Management
 [BIP 32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) is a specification for creating [Hierarchical Deterministic wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki). They are wallets that, from a root it can generate multiple "child" private keys in a deterministic way. You only need to remember the "path" of the child key.
 
 For example hardware wallets use them from a single root you can generate separate keys for Bitcoin \(with path m/44'/0'/0'/0\) and Ethereum \(path m/44'/60'/0'/0\).Binance Chain extension wallet would use a similar way to generate keys as Ethereum, i.e. derive the private key using BIP32/BIP44 with HD prefix as "44'/60'/", which is the same as Ethereum's derivation path.
+
+### Add Account in BEW
+
+Click "Add Account"
+
+ 
+
+![](../../.gitbook/assets/image%20%2847%29.png)
+
+Input a valid name
+
+![](../../.gitbook/assets/image%20%2848%29.png)
+
+
+
+### How to Hide Accounts
+
+Go to Account &gt;&gt; Manage
+
+Click on "hide" button
+
+![](../../.gitbook/assets/image%20%2843%29.png)
+
+
 

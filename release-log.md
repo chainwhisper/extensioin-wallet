@@ -4,7 +4,18 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
-## Version 1.143.2 **** - 2021-4-21
+## Version 1.145.1 **** - 2021-5-7
+
+### Added
+
+* Auto-add common assets when balance &gt; 0
+* Support hide/show accounts.
+
+### Fixed
+
+* Torus account double click issue.
+
+## **Version 1.143.2  - 2021-4-21**
 
 ### Added
 

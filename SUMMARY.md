@@ -9,7 +9,7 @@
 * [FAQ](account-management/faq.md)
 * [Account Management](account-management/acc/README.md)
   * [Get Started](account-management/acc/get-started.md)
-  * [Add More Accounts](account-management/acc/add-account.md)
+  * [Add/Hide Accounts](account-management/acc/add-account.md)
   * [Import/Recover Wallet](account-management/acc/recover.md)
   * [How to Import An Account with Private Key](account-management/acc/how-to-import-account-with-private-key.md)
   * [Backup Accounts](account-management/acc/backup-wallet.md)

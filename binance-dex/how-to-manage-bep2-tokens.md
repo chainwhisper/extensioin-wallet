@@ -6,13 +6,13 @@ In this article, we will talk about how to get your token listed with the help o
 
 Go to home page of Binance chain [mainnet](https://binance.org/)/[testnet](https://testnet.binance.org/). In this example, we will use testnet as an example.
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 Choose "Governance" &gt;&gt; "Token Management"
 
 Click "Unlock Wallet"; Choose BEW
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 After successfully get connected with your wallet, you will be redirected to the token management page. 
 

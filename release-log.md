@@ -9,7 +9,7 @@ description: Binance Extension Wallet Relese Note
 ### Added
 
 * Auto-add common assets when balance &gt; 0
-* Support hide/show accounts.
+* Support [hide/show](account-management/acc/add-account.md) accounts.
 
 ### Fixed
 

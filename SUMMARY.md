@@ -19,6 +19,7 @@
 * [dApp Integration](account-management/dapp-interaction.md)
 * [Switch Network](account-management/switch-network.md)
 * [Ethereum Support](account-management/ethereum-support.md)
+* [How to Upgrade BEW](account-management/how-to-upgrade-bew.md)
 
 ## Development Guide <a id="dev"></a>
 

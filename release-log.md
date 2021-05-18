@@ -4,6 +4,18 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
+## Version 1.146.2 - 2021-5-18
+
+### Added
+
+*  Add explorer link to all transactions
+* Show warning when switching network on a Ledger account
+
+### Fixed
+
+* Cannot change memo if an address is in recently cached
+* Insufficient balance issue when BSC cross-chain staking
+
 ## Version 1.145.1 **** - 2021-5-7
 
 ### Added

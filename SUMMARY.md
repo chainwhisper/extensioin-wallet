@@ -68,4 +68,5 @@
 ## torus
 
 * [How to Create a new tKey wallet](torus/how-to-create-a-new-tkey-wallet.md)
+* [How to Reset the Password of your tKey Wallet](torus/how-to-reset-the-password-of-your-tkey-wallet.md)
 

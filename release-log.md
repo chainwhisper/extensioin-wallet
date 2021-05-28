@@ -6,6 +6,8 @@ description: Binance Extension Wallet Relese Note
 
 ## Version 2.0.0 - 2021-5-28
 
+ Released on Firefox.
+
 ### Added
 
 * Support configure gas price and gas limit when approve and sign a transaction with dApp on BSC and ETH. 

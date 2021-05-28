@@ -4,6 +4,18 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
+## Version 2.0.0 - 2021-5-28
+
+### Added
+
+* Support configure gas price and gas limit when approve and sign a transaction with dApp on BSC and ETH. 
+* Can quick transfer accounts between accounts in wallet. 
+
+### Bugfix
+
+* Treat Ledger live as the default path.
+* Switch to Ledger account when imported.
+
 ## Version 1.146.2 - 2021-5-18
 
 ### Added

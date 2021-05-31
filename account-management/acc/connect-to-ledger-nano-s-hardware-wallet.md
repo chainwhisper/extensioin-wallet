@@ -6,15 +6,17 @@ Since v1.121.1, Binance Extension Wallet is released with Ledger Nano S and X su
 
 * [Ledger Nano S](https://shop.ledger.com/products/ledger-nano-s) or [Ledger nano X](https://shop.ledger.com/pages/ledger-nano-x)
 * Up to date Chrome or Firefox installed
-* Binance Extension wallet v1.21.1 installed
+* Binance Extension wallet v1.21.1 or later installed
+* BEW should **already have initialized** with an account 
 
 Next:
 
 1. Your first step is to plug your[ Ledger](https://shop.ledger.com/pages/back-to-school?r=da6d9b98e517) into your computer. Ensure it powers on and then input the pin you chose when setting up your ledger.
-2. Select and open the Ethereum Application. If you haven't installed Ethereum Application, please read this[ guide](https://docs.binance.org/smart-chain/wallet/ledger.html#app-installation-instructions)
-3. Enabling contract data for BEP20. The first item in the settings menu is “Contract Data”. Push down both buttons to select it. Once you have set your ledger up like this the first time, you won’t have to do it again each time you want to use it with Binance Extension wallet.
-4. Open Binance Chain Extension Wallet and select "Binance Smart Chain" network
-5. Choose "Hardware Wallet" in Settings. Then, click on "Connect"
+2. For BSC network usage, select and open the **Ethereum** Application. If you haven't installed Ethereum Application, please read this[ guide](https://docs.binance.org/smart-chain/wallet/ledger.html#app-installation-instructions)
+3. For BC network usage, select and open the **Binance Chain** Application. 
+4. Enabling contract data for BEP20. The first item in the settings menu is “Contract Data”. Push down both buttons to select it. Once you have set your ledger up like this the first time, you won’t have to do it again each time you want to use it with Binance Extension wallet.
+5. Open Binance Chain Extension Wallet and select "Binance Smart Chain" network
+6. Choose "Hardware Wallet" in Settings. Then, click on "Connect"
 
 ![img](https://lh3.googleusercontent.com/cl6u_s0KmvaoDLGOgGRAOZAdRWBVEqwVVBqJyuKWfj5qe6mFoaOkJj0RBUr3lGCfyTbl-LGMtSsGGZeDmXZEZriKzhmJeTgAIxMVXDV-9eL8LdMEZoElvDJxBkRv_eCQXFK2U0g_)
 

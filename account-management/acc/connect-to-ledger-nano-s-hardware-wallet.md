@@ -15,14 +15,28 @@ Next:
 2. For BSC network usage, select and open the **Ethereum** Application. If you haven't installed Ethereum Application, please read this[ guide](https://docs.binance.org/smart-chain/wallet/ledger.html#app-installation-instructions)
 3. For BC network usage, select and open the **Binance Chain** Application. 
 4. Enabling contract data for BEP20. The first item in the settings menu is “Contract Data”. Push down both buttons to select it. Once you have set your ledger up like this the first time, you won’t have to do it again each time you want to use it with Binance Extension wallet.
-5. Open Binance Chain Extension Wallet and select "Binance Smart Chain" network
-6. Choose "Hardware Wallet" in Settings. Then, click on "Connect"
+
+### For Binance Smart Chain usage
+
+* Open Binance Chain Extension Wallet and select "Binance Smart Chain" network
+* Choose "Hardware Wallet" in Settings. 
 
 ![img](https://lh3.googleusercontent.com/cl6u_s0KmvaoDLGOgGRAOZAdRWBVEqwVVBqJyuKWfj5qe6mFoaOkJj0RBUr3lGCfyTbl-LGMtSsGGZeDmXZEZriKzhmJeTgAIxMVXDV-9eL8LdMEZoElvDJxBkRv_eCQXFK2U0g_)
 
-6. Choose HD Path. Use "Legacy" by default
+* Choose HD Path and Select an address. Then, click on "Unlock"
 
-![img](https://lh3.googleusercontent.com/3a6U0ixzPh7ONtHBxmwqak1zDW3oCMOHRs4b8yFbg3yONP1wwzwM4nNpLeRVPkrgTEospxBobHkfxohq4WaHnBtnbVnX4pEJdEk-pQ26hm5NlxYe6ER_wAi9TEWy2I9a9kr7K80U)
+![](../../.gitbook/assets/image%20%2856%29.png)
+
+### For Binance Chain Usage
+
+* Open Binance Chain Extension Wallet and select "Binance  Chain" network
+
+![](../../.gitbook/assets/image%20%2858%29.png)
+
+* Choose "Hardware Wallet" in Settings. 
+* Select an address, Then, click on "Unlock"
+
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 7. Finally, you can see a new account with `LEDGER` tag
 

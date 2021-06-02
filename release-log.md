@@ -4,6 +4,14 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
+## Version 2.0.1 - 2021-5-31
+
+released on Firefox. 
+
+### Bugfix
+
+* Default gas limit for some erc20 is insufficient.
+
 ## Version 2.0.0 - 2021-5-28
 
  Released on Firefox.
@@ -11,7 +19,7 @@ description: Binance Extension Wallet Relese Note
 ### Added
 
 * Support configure gas price and gas limit when approve and sign a transaction with dApp on BSC and ETH. 
-* Can quick transfer accounts between accounts in wallet. 
+* Can quick transfer accounts between your accounts. 
 
 ### Bugfix
 

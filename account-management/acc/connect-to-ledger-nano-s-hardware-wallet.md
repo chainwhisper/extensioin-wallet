@@ -29,12 +29,8 @@ Next:
 ![img](https://lh6.googleusercontent.com/AVcK7gB6q8NC68wme8jJokOxtc5RuZVVm7nhp_Om6255reIrR51OvKm559n6-xZ-Bg6vUhlZHhySjdovhwVwx8ZS0LpJWXwbIIQYWvUKdddEFntQbJNK0qHRUGM13fUrDoAdGiTY)
 
 {% hint style="info" %}
-Warning Please note you cannot use Ledger account for Binance Chain network.
-{% endhint %}
-
-\*\*\*\*
-
 **You are connected!**
+{% endhint %}
 
 ## Sign Transaction with Ledger
 

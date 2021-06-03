@@ -1,5 +1,12 @@
 # Connect to Ledger Nano S Hardware Wallet
 
+{% hint style="warning" %}
+  
+Attention! 
+
+**Chrome** 91 breaks BEW Ledger support. A patch is coming asap. If you updated Chrome to 91.0.4472.77, you'll need to use another browser like **Firefox** to connect your Ledger to BEW.
+{% endhint %}
+
 Since v1.121.1, Binance Extension Wallet is released with Ledger Nano S and X support
 
 **What you need:**

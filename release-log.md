@@ -4,6 +4,14 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
+## Version 2.0.3 - 2021-6-3
+
+released on Firefox. 
+
+### Bugfix
+
+* When a user import Ledger account, it's forbidden to select address when loading and switching HD Path 
+
 ## Version 2.0.1 - 2021-5-31
 
 released on Firefox. 

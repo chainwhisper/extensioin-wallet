@@ -53,6 +53,7 @@
 * [Transfer Testnet BNB from BSC to BC](best-practice/transfer-testnet-bnb-from-bsc-to-bc.md)
 * [Transfer Testnet BNB from BC to BSC](best-practice/transfer-testnet-bnb-from-bc-to-bsc.md)
 * [How to recover my fund sent to the wrong network](best-practice/how-to-recover-my-fund.md)
+* [How to Adjust Gas Price and Gas Limit on Binance Smart Chain](best-practice/how-to-adjust-gas-price-and-gas-limit-on-binance-smart-chain.md)
 
 ## Useful Links
 

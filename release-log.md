@@ -10,7 +10,7 @@ released on Firefox.
 
 ### Added
 
-* User can edit gas price and gas limit when sending transaction on Binance Smart Chain
+* User can [edit gas price and gas limit ](best-practice/how-to-adjust-gas-price-and-gas-limit-on-binance-smart-chain.md)when sending transaction on Binance Smart Chain
 * Torus integration with the new library.
 
 ## Version 2.0.3 - 2021-6-3
@@ -35,7 +35,7 @@ released on Firefox.
 
 ### Added
 
-* Support configure gas price and gas limit when approve and sign a transaction with dApp on BSC and ETH. 
+* Support [configure gas price and gas limit](account-management/ethereum-support.md#adjust-gas-price-and-gas-limit) when approve and sign a transaction with dApp on Ethereum. 
 * Can quick transfer accounts between your accounts. 
 
 ### Bugfix

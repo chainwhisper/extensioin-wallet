@@ -35,7 +35,7 @@ You can use Binance Extension wallet to use those popular dApps.
 
 If you do not know what is [gas](https://academy.binance.com/en/glossary/gas) or [gas limit](https://academy.binance.com/en/glossary/gas-limit), please read the articles from Binance Academy. 
 
-BEW now provides with the option to adjust gas price and gas limit when
+BEW now provides with the option to adjust gas price and gas limit for Ethereum network
 
 On the page of transaction confirmation, click at "pencil" button to edit gas
 

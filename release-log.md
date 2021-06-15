@@ -4,9 +4,18 @@ description: Binance Extension Wallet Relese Note
 
 # Releases
 
-## Version 2.0.3 - 2021-6-3
+## Version 2.2.2 - 2021-6-3
 
 released on Firefox. 
+
+### Added
+
+* User can edit gas price and gas limit when sending transaction on Binance Smart Chain
+* Torus integration with the new library.
+
+## Version 2.0.3 - 2021-6-3
+
+released on Firefox and Chrome. 
 
 ### Bugfix
 

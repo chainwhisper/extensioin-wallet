@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Intro](README.md)
-* [Releases](release-log.md)
-* [Roadmap](roadmaop.md)
+* [👋 Intro](README.md)
+* [📓Releases](release-log.md)
+* [🚥Roadmap](roadmaop.md)
 
 ## Guidelines and FAQ <a id="account-management"></a>
 
-* [FAQ](account-management/faq.md)
+* [❓FAQ](account-management/faq.md)
 * [Account Management](account-management/acc/README.md)
   * [Get Started](account-management/acc/get-started.md)
   * [Add/Hide Accounts](account-management/acc/add-account.md)
@@ -23,7 +23,7 @@
 
 ## Development Guide <a id="dev"></a>
 
-* [Guide](dev/introduction.md)
+* [💻Guide](dev/introduction.md)
 * [Get Started](dev/get-started.md)
 
 ## Wallet Direct

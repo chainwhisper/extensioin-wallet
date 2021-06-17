@@ -2,7 +2,7 @@
 description: Binance Extension Wallet Relese Note
 ---
 
-# Releases
+# 📓Releases
 
 ## Version 2.2.2 - 2021-6-15
 

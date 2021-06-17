@@ -4,7 +4,7 @@ description: >-
   Smart Chain and Ethereum
 ---
 
-# Intro
+# 👋 Intro
 
 ### What is it?
 

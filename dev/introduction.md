@@ -1,4 +1,4 @@
-# Guide
+# 💻Guide
 
 ## Why Binance Chain Wallet
 

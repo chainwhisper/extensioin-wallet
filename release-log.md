@@ -4,6 +4,24 @@ description: Binance Extension Wallet Relese Note
 
 # 📓Releases
 
+## Version 2.3.0 - 2021-6-23
+
+released on Firefox.
+
+### Added
+
+* “About” page on settings.
+* New import/new account messages.
+* Can add custom token to home page auto load balance.
+* Show QR code directly if no wallet direct connected.
+
+### Bugfix
+
+  
+**1. Support Ledger Live connection on Chrome v91 for BSC/ETH.**  
+2. disable confirm until retrieve fee on send page.  
+3. Correct ETH gas price.
+
 ## Version 2.2.2 - 2021-6-15
 
 released on Firefox and Chrome. 

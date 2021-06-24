@@ -6,14 +6,14 @@ description: Binance Extension Wallet Relese Note
 
 ## Version 2.3.0 - 2021-6-23
 
-released on Firefox.
+released on Firefox and Chrome. 
 
 ### Added
 
-* “About” page on settings.
+* “[About](account-management/how-to-upgrade-bew.md#where-can-i-see-the-version-number-of-binance-chain-extension-wallet)” page on settings.
 * New import/new account messages.
-* Can add custom token to home page auto load balance.
-* Show QR code directly if no wallet direct connected.
+* Users can add a customized token to home page and load balance automatically.
+* Show QR code directly if wallet direct feature is not enabled.
 
 ### Bugfix
 

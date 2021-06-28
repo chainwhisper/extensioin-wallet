@@ -20,6 +20,11 @@
 * [Ethereum Support](account-management/ethereum-support.md)
 * [How to Upgrade BEW](account-management/how-to-upgrade-bew.md)
 
+## Hardware Wallet Connection
+
+* [Connect to Ledger Nano S Hardware Wallet](hardware-wallet-connection/connect-to-ledger-nano-s-hardware-wallet.md)
+* [Connection Issue with Ledger](hardware-wallet-connection/connection-issue-with-ledger.md)
+
 ## Development Guide <a id="dev"></a>
 
 * [💻Guide](dev/introduction.md)
@@ -69,9 +74,4 @@
 
 * [How to Create a new tKey wallet](torus/how-to-create-a-new-tkey-wallet.md)
 * [How to Reset the Password of your tKey Wallet](torus/how-to-reset-the-password-of-your-tkey-wallet.md)
-
-## Hardware Wallet Connection
-
-* [Connect to Ledger Nano S Hardware Wallet](hardware-wallet-connection/connect-to-ledger-nano-s-hardware-wallet.md)
-* [Connection Issue with Ledger](hardware-wallet-connection/connection-issue-with-ledger.md)
 

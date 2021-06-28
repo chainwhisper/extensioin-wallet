@@ -14,7 +14,6 @@
   * [How to Import An Account with Private Key](account-management/acc/how-to-import-account-with-private-key.md)
   * [Backup Accounts](account-management/acc/backup-wallet.md)
   * [Edit Account Name](account-management/acc/edit-account-name.md)
-  * [Connect to Ledger Nano S Hardware Wallet](account-management/acc/connect-to-ledger-nano-s-hardware-wallet.md)
 * [Asset Management](account-management/asset.md)
 * [dApp Integration](account-management/dapp-interaction.md)
 * [Switch Network](account-management/switch-network.md)
@@ -70,4 +69,9 @@
 
 * [How to Create a new tKey wallet](torus/how-to-create-a-new-tkey-wallet.md)
 * [How to Reset the Password of your tKey Wallet](torus/how-to-reset-the-password-of-your-tkey-wallet.md)
+
+## Hardware Wallet Connection
+
+* [Connect to Ledger Nano S Hardware Wallet](hardware-wallet-connection/connect-to-ledger-nano-s-hardware-wallet.md)
+* [Connection Issue with Ledger](hardware-wallet-connection/connection-issue-with-ledger.md)
 

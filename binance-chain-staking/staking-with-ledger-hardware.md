@@ -6,7 +6,7 @@ Since v1.136.1, Binance Extension Wallet is released with Ledger Nano S , Nano X
 
 ### Import Accounts from Ledger Hardware wallet
 
-Follow this [guide](../account-management/acc/connect-to-ledger-nano-s-hardware-wallet.md)
+Follow this [guide](../hardware-wallet-connection/connect-to-ledger-nano-s-hardware-wallet.md)
 
 ### Open staking page
 

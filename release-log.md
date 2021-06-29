@@ -4,6 +4,24 @@ description: Binance Extension Wallet Relese Note
 
 # 📓Releases
 
+## Version 2.4.0 - 2021-6-29
+
+released on Firefox
+
+### Added
+
+* [Use WebUSB to use Ledger](hardware-wallet-connection/connection-issue-with-ledger.md) on Chrome, support Binance Chain/Binance Smart Chain/Ethereum 
+* New format for home page asset balance. 
+* New sort rules on home page asset list. 
+
+### Bugfix
+
+* Amount issue sending max amount bep20 assets from Binance Smart Chain
+
+   to Binance Chain
+
+* replace price API.
+
 ## Version 2.3.0 - 2021-6-23
 
 released on Firefox and Chrome. 

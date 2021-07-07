@@ -5,9 +5,11 @@ By staking your **BNB**, you participate in the selection process of Binance Sma
 ## How to delegate your BNB with Binance Extension wallet
 
 * [Install Binance Chain extension wallet](../#download-link)
-* Go to the staking page:
+* Go to the staking page or find the shortcut at BEW homepage
   * **Mainnet**: [https://www.binance.org/en/staking](https://www.binance.org/en/staking)
   * Testnet: [https://testnet-staking.binance.org/en/staking](https://testnet-staking.binance.org/en/staking) \(In case you wish to try in testnet\)
+
+![BEW homepage with staking link](../.gitbook/assets/image%20%2864%29.png)
 
 **Delegate Example**
 

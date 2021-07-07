@@ -4,6 +4,21 @@ description: Binance Extension Wallet Relese Note
 
 # 📓Releases
 
+## Version 2.5.1 - 2021-7-7
+
+released on Firefox
+
+### Added
+
+* Add a button to [add/hide asset at detail page](account-management/asset.md#how-to-remove-a-token)
+* Add  a link to[ BNB Staking](binance-chain-staking/staking.md) for BC/BSC home page
+
+### Bugfix
+
+* Modify “Create a new wallet” workflow
+* Fix lose precision for send max with 14+ decimals
+* Reduce inpage bundle size and speedup.
+
 ## Version 2.4.0 - 2021-6-29
 
 released on Firefox and Chrome. 

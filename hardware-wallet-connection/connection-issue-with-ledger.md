@@ -27,6 +27,10 @@ Chrome lets you connect a website to your Bluetooth and USB devices.
 
 Well done! Now you can use Ledger on Chrom again 🎉
 
+{% hint style="warning" %}
+If the approval page is not open automatically, you can open it manually with this link:  chrome-extension://fhbohimaelbohpjbbldcngcnapndodjp/popup.html\#/en/hardware-wallet/authority
+{% endhint %}
+
 ## Remove Ledger devices connected with Chrome
 
 To remove a website's access to your USB devices, follow these steps:

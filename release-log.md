@@ -4,6 +4,20 @@ description: Binance Extension Wallet Relese Note
 
 # 📓Releases
 
+## Version 2.6.0 - 2021-8-4
+
+released on Firefox. 
+
+### Added
+
+* Sign transaction popup add DATA tab.
+* [Override MetaMask Connection](account-management/dapp-interaction.md#override-metamask-connection)
+
+### Bugfix
+
+* Torus Google account creation as atomic.
+* Remove “Wallet Direct” from Account screen.
+
 ## Version 2.5.1 - 2021-7-7
 
 released on Firefox and Chrome. 

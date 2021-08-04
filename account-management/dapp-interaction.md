@@ -44,3 +44,15 @@ Binance extension will remember which sites have been approved until the user wi
 
 ![](../.gitbook/assets/image.png)
 
+## Override MetaMask Connection
+
+If you wish to replace MetaMask with Binance Chain extension wallet when trading on dApps, just go to "Settings" &gt;&gt; "Conflicts". Then, enable the option of "Avoid conflict with MetaMask". In this way, BEW will pop up instead of MetaMask
+
+![](../.gitbook/assets/image%20%2867%29.png)
+
+
+
+
+
+
+

@@ -5,9 +5,10 @@ description: The potential features of extension wallet
 # 🚥Roadmap
 
 * [ ] Mobile App
-* [ ] Binance DEX support
+* [ ] Support Ledger account for Wallet direct
+* [x] Binance DEX support
 * [ ] Delete account
-* [ ] Change account name
+* [x] Change account name
 
 
 

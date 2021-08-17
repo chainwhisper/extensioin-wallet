@@ -8,6 +8,7 @@
 
 * [❓FAQ](account-management/faq.md)
 * [Account Management](account-management/acc/README.md)
+  * [Auto-lock Timer](account-management/acc/auto-lock-timer.md)
   * [Get Started](account-management/acc/get-started.md)
   * [Add/Hide Accounts](account-management/acc/add-account.md)
   * [Import/Recover Wallet](account-management/acc/recover.md)

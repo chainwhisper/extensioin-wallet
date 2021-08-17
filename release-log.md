@@ -4,9 +4,18 @@ description: Binance Extension Wallet Relese Note
 
 # 📓Releases
 
+## Version 2.7.0 - 2021-8-17
+
+released on Firefox. 
+
+### Added
+
+* Manage [auto-lock locker](account-management/acc/auto-lock-timer.md) in the setting
+* Add **Wallet Direct** tag on Binance deposit address in address dropdown
+
 ## Version 2.6.0 - 2021-8-4
 
-released on Firefox and Chrome. . 
+released on Firefox and Chrome. 
 
 ### Added
 

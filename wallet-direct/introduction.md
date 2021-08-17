@@ -80,3 +80,9 @@ You can confirm the paired status from the Extension wallet
 
 ![img](https://lh6.googleusercontent.com/hy1rG61OS64mT9jjlHPjY2iiEq-qb5B5gn3BDF-033_zJhV8ITZzT0GLvU7DX0IP4HGiU5ANQbWkyui-u6XEnQTlHN4lQM3x9iAofvcbHSy_uzdcT1JGKsLt6iLotgUVr-beyZM5)
 
+### Wallet Direct Related Transactions
+
+"Wallet Direct" tag are added on Binance deposit address in address dropdown.
+
+![](../.gitbook/assets/3-1-all-contents.png)
+

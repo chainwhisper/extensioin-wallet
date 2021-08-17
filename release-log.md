@@ -11,7 +11,7 @@ released on Firefox.
 ### Added
 
 * Manage [auto-lock locker](account-management/acc/auto-lock-timer.md) in the setting
-* Add **Wallet Direct** tag on Binance deposit address in address dropdown
+* Add[ **Wallet Direct** tag on](wallet-direct/introduction.md#wallet-direct-related-transactions) Binance deposit address in address dropdown
 
 ## Version 2.6.0 - 2021-8-4
 

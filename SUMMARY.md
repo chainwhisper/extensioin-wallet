@@ -8,12 +8,12 @@
 
 * [❓FAQ](account-management/faq.md)
 * [Account Management](account-management/acc/README.md)
-  * [Auto-lock Timer](account-management/acc/auto-lock-timer.md)
   * [Get Started](account-management/acc/get-started.md)
   * [Add/Hide Accounts](account-management/acc/add-account.md)
   * [Import/Recover Wallet](account-management/acc/recover.md)
   * [How to Import An Account with Private Key](account-management/acc/how-to-import-account-with-private-key.md)
   * [Backup Accounts](account-management/acc/backup-wallet.md)
+  * [Auto-lock Timer](account-management/acc/auto-lock-timer.md)
   * [Edit Account Name](account-management/acc/edit-account-name.md)
 * [Asset Management](account-management/asset.md)
 * [dApp Integration](account-management/dapp-interaction.md)

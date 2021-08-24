@@ -23,7 +23,7 @@
 
 ## Hardware Wallet Connection
 
-* [Connect to Ledger Nano S Hardware Wallet](hardware-wallet-connection/connect-to-ledger-nano-s-hardware-wallet.md)
+* [Connect to Ledger Hardware Wallet](hardware-wallet-connection/connect-to-ledger-nano-s-hardware-wallet.md)
 * [Connection Issue with Ledger](hardware-wallet-connection/connection-issue-with-ledger.md)
 
 ## Development Guide <a id="dev"></a>

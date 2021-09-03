@@ -2,7 +2,7 @@
 
 ## Why do you have to migrate
 
-When Binance DEX was launched, users can unlock their wallets with this page [https://www.binance.org/en/unlock](https://www.binance.org/en/unlock).  With the development of Binance Chain products, this page will no longer being maintained since 2021/09/15.  From then, you can only unlock your wallet with Binance chain wallet or WalletConnect. 
+When Binance DEX was launched, users can unlock their wallets with this page [https://www.binance.org/en/unlock](https://www.binance.org/en/unlock).  With the development of Binance Chain products, this page will no longer be maintained in the future.  When that change took place, you can only unlock your wallet with Binance chain wallet or WalletConnect. 
 
 ![](../.gitbook/assets/image%20%2869%29.png)
 

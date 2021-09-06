@@ -26,10 +26,10 @@
 * [Connect to Ledger Hardware Wallet](hardware-wallet-connection/connect-to-ledger-nano-s-hardware-wallet.md)
 * [Connection Issue with Ledger](hardware-wallet-connection/connection-issue-with-ledger.md)
 
-## Development Guide <a id="dev"></a>
+## Developer Guide <a id="dev"></a>
 
 * [💻Guide](dev/introduction.md)
-* [Get Started](dev/get-started.md)
+* [API Documentation](dev/get-started.md)
 
 ## Wallet Direct
 
@@ -47,10 +47,16 @@
 * [Math Wallet tutorial](https://blog.mathwallet.org/?p=2054)
 * [Trust Wallet tutorial](https://community.trustwallet.com/t/bnb-staking-with-trust-wallet/113243)
 
-## Community Group
+## torus
 
-* [Discord](https://discord.gg/9jsQJrfP5G%20%20%20)
-* [Telegram Group](https://t.me/joinchat/GSA1STd-X81w55_6)
+* [How to Create a new tKey wallet](torus/how-to-create-a-new-tkey-wallet.md)
+* [How to Reset the Password of your tKey Wallet](torus/how-to-reset-the-password-of-your-tkey-wallet.md)
+
+## Binance DEX
+
+* [How to trade with Binance Chain Extension wallet](binance-dex/how-to-trade-with-binance-chain-extension-wallet.md)
+* [How to Manage BEP2 tokens](binance-dex/how-to-manage-bep2-tokens.md)
+* [How to Migrate To Binance Extension Wallet](binance-dex/how-to-migrate-to-binance-extension-wallet.md)
 
 ## Best Practice
 
@@ -62,18 +68,12 @@
 
 ## Useful Links
 
+* [Binance DEX](https://www.binance.org/en/trade)
 * [BscScan](https://bscscan.com/)
 * [Testnet Faucet](https://testnet.binance.org/faucet-smart/)
 
-## Binance DEX
+## Community Group
 
-* [How to trade with Binance Chain Extension wallet](binance-dex/how-to-trade-with-binance-chain-extension-wallet.md)
-* [How to Manage BEP2 tokens](binance-dex/how-to-manage-bep2-tokens.md)
-* [How to Migrate To Binance Extension Wallet](binance-dex/how-to-migrate-to-binance-extension-wallet.md)
-* [Binance DEX](https://www.binance.org/en/trade)
-
-## torus
-
-* [How to Create a new tKey wallet](torus/how-to-create-a-new-tkey-wallet.md)
-* [How to Reset the Password of your tKey Wallet](torus/how-to-reset-the-password-of-your-tkey-wallet.md)
+* [Discord](https://discord.gg/9jsQJrfP5G%20%20%20)
+* [Telegram Group](https://t.me/joinchat/GSA1STd-X81w55_6)
 

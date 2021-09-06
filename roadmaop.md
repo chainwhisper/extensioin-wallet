@@ -9,6 +9,7 @@ description: The potential features of extension wallet
 * [x] Binance DEX support
 * [ ] Delete account
 * [x] Change account name
+* [ ] Wallet Connect support
 
 
 

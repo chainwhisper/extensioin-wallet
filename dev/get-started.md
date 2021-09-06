@@ -1,4 +1,4 @@
-# Get Started
+# API Documentation
 
 Binance Chain Wallet injects a global API into websites visited by its users at `window.BinanceChain`.
 

@@ -18,7 +18,7 @@ There are many dApps supporting Binance Chain wallet:
 
 ![](https://lh4.googleusercontent.com/4XlT70gWJvCQ-mtiDQIkjc3p4kdwSnAz4FDyCRWfFkaUqq7KqT65rQR7Tm72MkjA8tT4_9LXnduh0ZVsAlsWtLkU84QqreEnnmEhVzZGPsRn4dFdJJzXsnYoTFDubn2Ulc4xeF8B)
 
-### DeFi App Authorized sites management
+### Authorized sites management
 
 {% hint style="info" %}
 This feature is introduced in version 1.131.1.
@@ -32,6 +32,10 @@ dApps need to ask permission to view users’ accounts. Users could see “Login
 
 
 ![](../.gitbook/assets/image%20%289%29.png)
+
+[https://www.binance.org/en](https://www.binance.org/en) is the official website for Binance Smart Chain. This is a default and cannot be removed. 
+
+![](../.gitbook/assets/image%20%2872%29.png)
 
 ### Revoke Permission
 

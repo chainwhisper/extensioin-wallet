@@ -1,34 +1,24 @@
----
-description: >-
-  Binance Chain Extension Wallet is a Crypto Wallet for Binance Chain, Binance
-  Smart Chain and Ethereum
----
-
 # 👋 Intro
 
-### What is it?
+Binance Wallet is a Crypto Wallet for Binance Chain, Binance Smart Chain and Ethereum. It is a one-stop gateway to store, exchange and earn crypto.
 
-Binance Chain Extension Wallet is a Crypto Wallet for Binance Chain, Binance Smart Chain. You can send and receive funds on Binance Chain, Binance Smart Chain and cross-chain transfers between both of Binance’s blockchains.
+## Binance Wallet Extension
 
-Lately,  Binance Chain Extension Wallet add support for Ethereum blockchain. It could enable access for distributed applications, or "Dapps" in your browser!
-
-It’s supported in Firefox and Chrome browsers.
+It’s supported in Firefox, Chrome and Brave browsers.
 
 {% hint style="info" %}
 **Tip** Firefox users are more likely to access the latest version timely
 {% endhint %}
 
+### Download Link
 
-
-## Download Link
-
-### App Store 
+#### App Store 
 
 Chrome App Store Link: [https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp](https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp)
 
 Firefox App Store Link: [https://addons.mozilla.org/en-US/firefox/addon/binance-chain/?src=search](https://addons.mozilla.org/en-US/firefox/addon/binance-chain/?src=search)
 
-## Install
+### Install
 
 Example: Install Binance Chain Wallet in Firefox browser
 
@@ -48,4 +38,15 @@ That’s it! You have successfully installed the Binance Chain Wallet extension 
 {% hint style="info" %}
 The workflow is the same for all browsers
 {% endhint %}
+
+## Binance Wallet Mobile
+
+With Binance Wallet you can keep your assets with you on the road. Binance Mobile is a secure and trusted multi-chain wallet designed for iOS and Android smartphones.  
+
+Beta Program
+
+  
+Download link
+
+Install
 

@@ -1,58 +1,60 @@
----
-description: Binance Extension Wallet Relese Note
----
-
 # 📓Releases
 
-## Version 2.7.0 - 2021-8-17
+## Binance Wallet Mobile Release Note
+
+### Alpha-version - 2021-09-25
+
+## Binance Wallet Extesnion Release Note
+
+### Version 2.7.0 - 2021-8-17
 
 released on Firefox and Chrome. 
 
-### Added
+#### Added
 
 * Manage [auto-lock locker](account-management/acc/auto-lock-timer.md) in the setting
 * Add[ **Wallet Direct** tag on](wallet-direct/introduction.md#wallet-direct-related-transactions) Binance deposit address in address dropdown
 
-## Version 2.6.0 - 2021-8-4
+### Version 2.6.0 - 2021-8-4
 
 released on Firefox and Chrome. 
 
-### Added
+#### Added
 
 * Sign transaction popup add DATA tab.
 * [Override MetaMask Connection](account-management/dapp-interaction.md#override-metamask-connection)
 
-### Bugfix
+#### Bugfix
 
 * Torus Google account creation as atomic.
 * Remove “Wallet Direct” from Account screen.
 
-## Version 2.5.1 - 2021-7-7
+### Version 2.5.1 - 2021-7-7
 
 released on Firefox and Chrome. 
 
-### Added
+#### Added
 
-* Add a button to [add/hide asset at detail page](account-management/asset.md#how-to-remove-a-token)
-* Add  a link to[ BNB Staking](binance-chain-staking/staking.md) for BC/BSC home page
+* Add a button to [add/hide asset at home screen](account-management/asset.md#how-to-remove-a-token)
+* Add  a link to[ BNB Staking](binance-chain-staking/staking.md) for BC/BSC home screen
 
-### Bugfix
+#### Bugfix
 
 * Modify “Create a new wallet” workflow
 * Fix lose precision for send max with 14+ decimals
 * Reduce inpage bundle size and speedup.
 
-## Version 2.4.0 - 2021-6-29
+### Version 2.4.0 - 2021-6-29
 
 released on Firefox and Chrome. 
 
-### Added
+#### Added
 
 * [Use WebUSB to use Ledger](hardware-wallet-connection/connection-issue-with-ledger.md) on Chrome, support Binance Chain/Binance Smart Chain/Ethereum 
-* New format for home page asset balance. 
-* New sort rules on home page asset list. 
+* New format for home screen asset balance. 
+* New sort rules on home screen asset list. 
 
-### Bugfix
+#### Bugfix
 
 * Amount issue sending max amount bep20 assets from Binance Smart Chain
 
@@ -60,159 +62,158 @@ released on Firefox and Chrome.
 
 * replace price API.
 
-## Version 2.3.0 - 2021-6-23
+### Version 2.3.0 - 2021-6-23
 
 released on Firefox and Chrome. 
 
-### Added
+#### Added
 
 * “[About](account-management/how-to-upgrade-bew.md#where-can-i-see-the-version-number-of-binance-chain-extension-wallet)” page on settings.
 * New import/new account messages.
-* Users can add a customized token to home page and load balance automatically.
+* Users can add a customized token to home screen and load balance automatically.
 * Show QR code directly if wallet direct feature is not enabled.
 
-### Bugfix
+#### Bugfix ****
 
-  
-**1. Support Ledger Live connection on Chrome v91 for BSC/ETH.**  
-2. disable confirm until retrieve fee on send page.  
+1. Support Ledger Live connection on Chrome v91 for BSC/ETH.
+2. Disable confirm until retrieve fee on send page.
 3. Correct ETH gas price.
 
-## Version 2.2.2 - 2021-6-15
+### Version 2.2.2 - 2021-6-15
 
 released on Firefox and Chrome. 
 
-### Added
+#### Added
 
 * User can [edit gas price and gas limit ](best-practice/how-to-adjust-gas-price-and-gas-limit-on-binance-smart-chain.md)when sending transaction on Binance Smart Chain
 * Torus integration with the new library.
 
-## Version 2.0.3 - 2021-6-3
+### Version 2.0.3 - 2021-6-3
 
 released on Firefox and Chrome. 
 
-### Bugfix
+#### Bugfix
 
 * When a user import Ledger account, it's forbidden to select address when loading and switching HD Path 
 
-## Version 2.0.1 - 2021-5-31
+### Version 2.0.1 - 2021-5-31
 
 released on Firefox. 
 
-### Bugfix
+#### Bugfix
 
 * Default gas limit for some erc20 is insufficient.
 
-## Version 2.0.0 - 2021-5-28
+### Version 2.0.0 - 2021-5-28
 
  Released on Firefox.
 
-### Added
+#### Added
 
 * Support [configure gas price and gas limit](account-management/ethereum-support.md#adjust-gas-price-and-gas-limit) when approve and sign a transaction with dApp on Ethereum. 
 * Can quick transfer accounts between your accounts. 
 
-### Bugfix
+#### Bugfix
 
 * Treat Ledger live as the default path.
 * Switch to Ledger account when imported.
 
-## Version 1.146.2 - 2021-5-18
+### Version 1.146.2 - 2021-5-18
 
-### Added
+#### Added
 
 *  Add explorer link to all transactions
 * Show warning when switching network on a Ledger account
 
-### Fixed
+#### Fixed
 
 * Cannot change memo if an address is in recently cached
 * Insufficient balance issue when BSC cross-chain staking
 
-## Version 1.145.1 **** - 2021-5-7
+### Version 1.145.1 **** - 2021-5-7
 
-### Added
+#### Added
 
 * Auto-add common assets when balance &gt; 0
 * Support [hide/show](account-management/acc/add-account.md) accounts.
 
-### Fixed
+#### Fixed
 
 * Torus account double click issue.
 
-## **Version 1.143.2  - 2021-4-21**
+### **Version 1.143.2  - 2021-4-21**
 
-### Added
+#### Added
 
 * Integrated with Torus to support Google account login wallet.
 
-## Version 1.141.6 **** - 2021-4-12
+### Version 1.141.6 **** - 2021-4-12
 
-### Added
+#### Added
 
 * Support BSC staking pages
 
-### Fixed
+#### Fixed
 
 * Fix send from BSC input amount will trigger send in middle.
 
-## Version 1.139.0 **** - 2021-3-26
+### Version 1.139.0 **** - 2021-3-26
 
-### **Improvements**
+#### **Improvements**
 
-display BNB 4 decimals on home page.
+display BNB 4 decimals on home screen.
 
-### Added
+#### Added
 
 * Account name validation
 * Import private key directly support for all blockchains: Binance Chain, Binance Smart Chain, Ethereum
 * [Binance DEX trading](binance-dex/how-to-trade-with-binance-chain-extension-wallet.md)
 
-## Version 1.138.5 - 2021-3-22
+### Version 1.138.5 - 2021-3-22
 
-### Hotfix
+#### Hotfix
 
 * Fix customize Ethereum transaction gas limit
 
-## Version 1.138.3 - 2021-3-19
+### Version 1.138.3 - 2021-3-19
 
-### Hotfix
+#### Hotfix
 
 * Fix integration with pancake swap on all pages and actions.
 * Sometimes insufficient balance error on dApp contract call fix.
 
-## Version 1.136.1 - 2021-3-11
+### Version 1.136.1 - 2021-3-11
 
-### Added
+#### Added
 
 * Support Ledger Hardware for Binance Chain
 * Support staking with [Ledger Hardware wallet](binance-chain-staking/staking-with-ledger-hardware.md)
 
-## Version 1.135.3 - 2021-3-5
+### Version 1.135.3 - 2021-3-5
 
-### Added
+#### Added
 
 * Support import private key for Binance Chain, Binance Smart Chain and Ethereum
 
-### Fixed
+#### Fixed
 
 * Disable wallet-direct for Ledger account
 * Disable wallet-direct on testnet
 * Disable BSC cross transfer to BC address with MEMO required
 
-### Changed
+#### Changed
 
 * UI improvement.
 
-## Version 1.132.1 - 2021-2-18
+### Version 1.132.1 - 2021-2-18
 
-### Added
+#### Added
 
 * New UI for wallet direct balance and transaction history. 
 * Wallet Direct on address dropdown menu. 
 * Change trust sites from global to address level. 
 
-### Fixed
+#### Fixed
 
 * Hide wallet direct receive on non-bind address
 * Settings and network display issue on Ledger account
@@ -222,42 +223,42 @@ display BNB 4 decimals on home page.
 * Clean cache of previous send transaction. 
 * Some other UI improvements.
 
-## Version 1.131.1 - 2021-01-20
+### Version 1.131.1 - 2021-01-20
 
-### Added
+#### Added
 
 * Support Ethereum Mainnet
 * Support export private key for BC, BSC and Ethereum accounts
 * Support connected dApp site management
 
-### Changed
+#### Changed
 
 * Wallet Direct & Binance Bridge compatibility for Ethereum accounts
 
-### Fixed
+#### Fixed
 
 * Fix bug "unable to send ETH max on BSC".
 
-## **Version 1.126.11 - 2020-12-20**
+### **Version 1.126.11 - 2020-12-20**
 
-### Added
+#### Added
 
 * Support [https://binance.com/](https://binance.com/)[wallet direct](wallet-direct/introduction.md)
 
-## Version 1.121.1 - 2020-11-26
+#### Version 1.121.1 - 2020-11-26
 
-### Added
+#### Added
 
 * Add ****Ledger hardware wallet support for BSC accounts
 * Add support to interact with dApp via ledger account
 
-### Changed
+#### Changed
 
 * Upgrade UI components
 
-## Version 1.113.1  - 2020-11-06
+### Version 1.113.1  - 2020-11-06
 
-### Changed
+#### Changed
 
 * Sending transaction performance improvement.
 * Support more than 8 accounts.

@@ -42,7 +42,7 @@ Then you should see your tokens in asset list.
 
 Gas fee is a fee paid to a network so as to complete a transaction on a blockchain.
 
-## 6. How to recover my fund sent to the wrong network
+### 6. How to recover my fund sent to the wrong network
 
 By default, Binance Extension Wallet supports **3** networks:
 

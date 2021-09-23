@@ -41,12 +41,11 @@ The workflow is the same for all browsers
 
 ## Binance Wallet Mobile
 
-With Binance Wallet you can keep your assets with you on the road. Binance Mobile is a secure and trusted multi-chain wallet designed for iOS and Android smartphones.  
+Binance Mobile is a secure and trusted multi-chain wallet. It is your one-stop gateway to store, exchange and earn crypto. 
 
-Beta Program
+Don’t know where to begin? Don’t worry, this article will guide you through the basics of the Binance Mobile App step-by-step. Let’s get started!
 
-  
-Download link
+{% page-ref page="bmw-guides-and-faq/beginners-guide-for-alpha-testing/" %}
 
-Install
+
 

@@ -6,8 +6,7 @@
 
 ## BEW Guides and FAQ <a id="bew-guides"></a>
 
-* [❓FAQ](bew-guides/faq.md)
-* [Beginer's Guide](bew-guides/beginers-guide/README.md)
+* [Beginner's Guide](bew-guides/beginers-guide/README.md)
   * [How to Install Binance Wallet Extension](bew-guides/beginers-guide/how-to-install-binance-wallet-extension.md)
   * [Account Management Guides](bew-guides/beginers-guide/acc/README.md)
     * [How to create a new wallet](bew-guides/beginers-guide/acc/get-started.md)
@@ -56,11 +55,32 @@
   * [What you can do with BEW](bew-guides/ethereum-support/what-you-can-do-with-bew.md)
   * [How to Migrate to Binance Extension Wallet](bew-guides/ethereum-support/how-to-migrate-to-binance-extension-wallet.md)
   * [How to Adjust Gas Price and Gas Limit](bew-guides/ethereum-support/how-to-adjust-gas-price-and-gas-limit.md)
+* [❓FAQ](bew-guides/faq.md)
+
+## BMW Guides and FAQ
+
+* [Beginner's Guide for Alpha Testing](bmw-guides-and-faq/beginners-guide-for-alpha-testing/README.md)
+  * [How to Install BMW Alpha](bmw-guides-and-faq/beginners-guide-for-alpha-testing/how-to-install-bmw-alpha.md)
+  * [Account Management Guides](bmw-guides-and-faq/beginners-guide-for-alpha-testing/account-management-guides/README.md)
+    * [How to Back up your Binance wallet?](bmw-guides-and-faq/beginners-guide-for-alpha-testing/account-management-guides/how-to-back-up-your-binance-wallet.md)
+    * [How to create and restore wallets on BMW](bmw-guides-and-faq/beginners-guide-for-alpha-testing/account-management-guides/how-to-create-and-restore-wallets-on-bmw.md)
+    * [How to Add/Hide accounts with Binance Wallet](bmw-guides-and-faq/beginners-guide-for-alpha-testing/account-management-guides/how-to-add-hide-accounts-with-binance-wallet.md)
+    * [How to keep my Passphrase & Private Key safe?](bmw-guides-and-faq/beginners-guide-for-alpha-testing/account-management-guides/how-to-keep-my-passphrase-and-private-key-safe.md)
+  * [Token Transfer](bmw-guides-and-faq/beginners-guide-for-alpha-testing/token-transfer/README.md)
+    * [How to send tokens on BMW](bmw-guides-and-faq/beginners-guide-for-alpha-testing/token-transfer/how-to-send-tokens-on-bmw.md)
+    * [How to receive tokens on BMW](bmw-guides-and-faq/beginners-guide-for-alpha-testing/token-transfer/how-to-receive-tokens-on-bmw.md)
+  * [Asset Management](bmw-guides-and-faq/beginners-guide-for-alpha-testing/asset-management/README.md)
+    * [How to manage your asset list on Binance Wallet](bmw-guides-and-faq/beginners-guide-for-alpha-testing/asset-management/how-to-manage-your-asset-list-on-binance-wallet.md)
+  * [How to Switch between different networks](bmw-guides-and-faq/beginners-guide-for-alpha-testing/how-to-switch-between-different-networks.md)
+* [Defi](bmw-guides-and-faq/defi/README.md)
+  * [How to use dApp Browser in Binance wallet?](bmw-guides-and-faq/defi/how-to-use-dapp-browser-in-binance-wallet.md)
+  * [How to convert BEP20 tokens to ERC20 on Binance Wallet](bmw-guides-and-faq/defi/how-to-convert-bep20-tokens-to-erc20-on-binance-wallet.md)
+  * [How to Farm on PancakeSwap on Binance Wallet](bmw-guides-and-faq/defi/how-to-farm-on-pancakeswap-on-binance-wallet.md)
 
 ## Developer Guide <a id="dev"></a>
 
 * [💻Guide](dev/introduction.md)
-* [API Documentation](dev/get-started.md)
+* [🛠️ API Documentation](dev/get-started.md)
 * [How to Get Testnet BNB from Faucet](dev/untitled.md)
 
 ## Useful Links

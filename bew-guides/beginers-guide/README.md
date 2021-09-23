@@ -1,2 +1,2 @@
-# Beginer's Guide
+# Beginner's Guide
 

@@ -2,7 +2,7 @@
 
 ## Binance Wallet Mobile Release Note
 
-### Alpha-version - 2021-09-25
+### Alpha-version - coming soon
 
 ## Binance Wallet Extesnion Release Note
 
@@ -12,8 +12,8 @@ released on Firefox and Chrome.
 
 #### Added
 
-* Manage [auto-lock locker](account-management/acc/auto-lock-timer.md) in the setting
-* Add[ **Wallet Direct** tag on](wallet-direct/introduction.md#wallet-direct-related-transactions) Binance deposit address in address dropdown
+* Manage [auto-lock locker](bew-guides/beginers-guide/auto-lock-timer.md) in the setting
+* Add[ **Wallet Direct** tag on](bew-guides/beginers-guide/wallet-direct/introduction.md#wallet-direct-related-transactions) Binance deposit address in address dropdown
 
 ### Version 2.6.0 - 2021-8-4
 
@@ -22,7 +22,7 @@ released on Firefox and Chrome.
 #### Added
 
 * Sign transaction popup add DATA tab.
-* [Override MetaMask Connection](account-management/dapp-interaction.md#override-metamask-connection)
+* [Override MetaMask Connection](bew-guides/dapp-interaction.md#override-metamask-connection)
 
 #### Bugfix
 
@@ -35,8 +35,8 @@ released on Firefox and Chrome.
 
 #### Added
 
-* Add a button to [add/hide asset at home screen](account-management/asset.md#how-to-remove-a-token)
-* Add  a link to[ BNB Staking](binance-chain-staking/staking.md) for BC/BSC home screen
+* Add a button to [add/hide asset at home screen](bew-guides/beginers-guide/asset/#how-to-remove-a-token)
+* Add  a link to[ BNB Staking]() for BC/BSC home screen
 
 #### Bugfix
 
@@ -50,7 +50,7 @@ released on Firefox and Chrome.
 
 #### Added
 
-* [Use WebUSB to use Ledger](hardware-wallet-connection/connection-issue-with-ledger.md) on Chrome, support Binance Chain/Binance Smart Chain/Ethereum 
+* [Use WebUSB to use Ledger](bew-guides/beginers-guide/how-to-use-hardware-wallets-with-bew/connection-issue-with-ledger.md) on Chrome, support Binance Chain/Binance Smart Chain/Ethereum 
 * New format for home screen asset balance. 
 * New sort rules on home screen asset list. 
 
@@ -68,7 +68,7 @@ released on Firefox and Chrome.
 
 #### Added
 
-* “[About](account-management/how-to-upgrade-bew.md#where-can-i-see-the-version-number-of-binance-chain-extension-wallet)” page on settings.
+* “[About](bew-guides/beginers-guide/how-to-upgrade-bew.md#where-can-i-see-the-version-number-of-binance-chain-extension-wallet)” page on settings.
 * New import/new account messages.
 * Users can add a customized token to home screen and load balance automatically.
 * Show QR code directly if wallet direct feature is not enabled.
@@ -85,7 +85,7 @@ released on Firefox and Chrome.
 
 #### Added
 
-* User can [edit gas price and gas limit ](best-practice/how-to-adjust-gas-price-and-gas-limit-on-binance-smart-chain.md)when sending transaction on Binance Smart Chain
+* User can [edit gas price and gas limit ](bew-guides/beginers-guide/token-transfer/how-to-adjust-gas-price-and-gas-limit-on-binance-smart-chain.md)when sending transaction on Binance Smart Chain
 * Torus integration with the new library.
 
 ### Version 2.0.3 - 2021-6-3
@@ -110,7 +110,7 @@ released on Firefox.
 
 #### Added
 
-* Support [configure gas price and gas limit](account-management/ethereum-support.md#adjust-gas-price-and-gas-limit) when approve and sign a transaction with dApp on Ethereum. 
+* Support [configure gas price and gas limit](bew-guides/ethereum-support/#adjust-gas-price-and-gas-limit) when approve and sign a transaction with dApp on Ethereum. 
 * Can quick transfer accounts between your accounts. 
 
 #### Bugfix
@@ -135,7 +135,7 @@ released on Firefox.
 #### Added
 
 * Auto-add common assets when balance &gt; 0
-* Support [hide/show](account-management/acc/add-account.md) accounts.
+* Support [hide/show](bew-guides/beginers-guide/acc/add-account.md) accounts.
 
 #### Fixed
 
@@ -167,7 +167,7 @@ display BNB 4 decimals on home screen.
 
 * Account name validation
 * Import private key directly support for all blockchains: Binance Chain, Binance Smart Chain, Ethereum
-* [Binance DEX trading](binance-dex/how-to-trade-with-binance-chain-extension-wallet.md)
+* [Binance DEX trading](bew-guides/beginers-guide/binance-dex/how-to-trade-with-binance-chain-extension-wallet.md)
 
 ### Version 1.138.5 - 2021-3-22
 
@@ -187,7 +187,7 @@ display BNB 4 decimals on home screen.
 #### Added
 
 * Support Ledger Hardware for Binance Chain
-* Support staking with [Ledger Hardware wallet](binance-chain-staking/staking-with-ledger-hardware.md)
+* Support staking with [Ledger Hardware wallet](bew-guides/beginers-guide/binance-chain-staking/staking-with-ledger-hardware.md)
 
 ### Version 1.135.3 - 2021-3-5
 
@@ -243,7 +243,7 @@ display BNB 4 decimals on home screen.
 
 #### Added
 
-* Support [https://binance.com/](https://binance.com/)[wallet direct](wallet-direct/introduction.md)
+* Support [https://binance.com/](https://binance.com/)[wallet direct](bew-guides/beginers-guide/wallet-direct/introduction.md)
 
 #### Version 1.121.1 - 2020-11-26
 

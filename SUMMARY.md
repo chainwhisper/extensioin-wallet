@@ -4,67 +4,64 @@
 * [📓Releases](release-log.md)
 * [🚥Roadmap](roadmaop.md)
 
-## Guidelines and FAQ <a id="account-management"></a>
+## BEW Guides and FAQ <a id="bew-guides"></a>
 
-* [❓FAQ](account-management/faq.md)
-* [Account Management](account-management/acc/README.md)
-  * [Get Started](account-management/acc/get-started.md)
-  * [Add/Hide Accounts](account-management/acc/add-account.md)
-  * [Import/Recover Wallet](account-management/acc/recover.md)
-  * [How to Import An Account with Private Key](account-management/acc/how-to-import-account-with-private-key.md)
-  * [Backup Accounts](account-management/acc/backup-wallet.md)
-  * [Auto-lock Timer](account-management/acc/auto-lock-timer.md)
-  * [Edit Account Name](account-management/acc/edit-account-name.md)
-* [Asset Management](account-management/asset.md)
-* [dApp Integration](account-management/dapp-interaction.md)
-* [Switch Network](account-management/switch-network.md)
-* [Ethereum Support](account-management/ethereum-support.md)
-* [How to Upgrade BEW](account-management/how-to-upgrade-bew.md)
-
-## Hardware Wallet Connection
-
-* [Connect to Ledger Hardware Wallet](hardware-wallet-connection/connect-to-ledger-nano-s-hardware-wallet.md)
-* [Connection Issue with Ledger](hardware-wallet-connection/connection-issue-with-ledger.md)
+* [❓FAQ](bew-guides/faq.md)
+* [Beginer's Guide](bew-guides/beginers-guide/README.md)
+  * [How to Install Binance Wallet Extension](bew-guides/beginers-guide/how-to-install-binance-wallet-extension.md)
+  * [Account Management Guides](bew-guides/beginers-guide/acc/README.md)
+    * [How to create a new wallet](bew-guides/beginers-guide/acc/get-started.md)
+    * [How to Import/Recover Wallet](bew-guides/beginers-guide/acc/recover.md)
+    * [How to Add/Hide Accounts](bew-guides/beginers-guide/acc/add-account.md)
+    * [How to Import An Account with Private Key](bew-guides/beginers-guide/acc/how-to-import-account-with-private-key.md)
+    * [How to Backup Your Accounts](bew-guides/beginers-guide/acc/backup-wallet.md)
+    * [How to Edit Account Name](bew-guides/beginers-guide/acc/edit-account-name.md)
+  * [Token Transfer](bew-guides/beginers-guide/token-transfer/README.md)
+    * [How to Adjust Gas Price and Gas Limit on Binance Smart Chain](bew-guides/beginers-guide/token-transfer/how-to-adjust-gas-price-and-gas-limit-on-binance-smart-chain.md)
+    * [How to Transfer BNB from BSC to BC](bew-guides/beginers-guide/token-transfer/transfer-testnet-bnb-from-bsc-to-bc.md)
+    * [How to Transfer BNB from BC to BSC](bew-guides/beginers-guide/token-transfer/transfer-testnet-bnb-from-bc-to-bsc.md)
+    * [How to recover my fund sent to the wrong network](bew-guides/beginers-guide/token-transfer/how-to-recover-my-fund.md)
+  * [How to use Hardware wallets with BEW](bew-guides/beginers-guide/how-to-use-hardware-wallets-with-bew/README.md)
+    * [Connect to Ledger Hardware Wallet](bew-guides/beginers-guide/how-to-use-hardware-wallets-with-bew/connect-to-ledger-nano-s-hardware-wallet.md)
+    * [Connection Issue with Ledger](bew-guides/beginers-guide/how-to-use-hardware-wallets-with-bew/connection-issue-with-ledger.md)
+  * [Asset Management](bew-guides/beginers-guide/asset/README.md)
+    * [How to Add BEP20/BEP2 Token on home screen](bew-guides/beginers-guide/asset/how-to-add-bep20-bep2-token-on-home-screen.md)
+    * [How to Remove a Token from home screen](bew-guides/beginers-guide/asset/how-to-remove-a-token-from-home-screen.md)
+    * [How to Add a Custom Token](bew-guides/beginers-guide/asset/how-to-add-a-custom-token.md)
+  * [How to Switch Network](bew-guides/beginers-guide/switch-network.md)
+  * [How to Upgrade BEW](bew-guides/beginers-guide/how-to-upgrade-bew.md)
+  * [Binance Chain Staking](bew-guides/beginers-guide/binance-chain-staking/README.md)
+    * [How to delegate your BNB with Binance Extension wallet](bew-guides/beginers-guide/binance-chain-staking/how-to-delegate-your-bnb-with-binance-extension-wallet.md)
+    * [How to redelegate your BNB with extension wallet](bew-guides/beginers-guide/binance-chain-staking/how-to-redelegate-your-bnb-with-extension-wallet.md)
+    * [How to undelegate your BNB with BEW](bew-guides/beginers-guide/binance-chain-staking/how-to-undelegate-your-bnb-with-bew.md)
+    * [How to check my staking rewards](bew-guides/beginers-guide/binance-chain-staking/how-to-check-my-staking-rewards.md)
+    * [How to Stake With Ledger Hardware](bew-guides/beginers-guide/binance-chain-staking/staking-with-ledger-hardware.md)
+    * [Binance Chain Staking FAQ](bew-guides/beginers-guide/binance-chain-staking/faq.md)
+  * [Wallet Direct](bew-guides/beginers-guide/wallet-direct/README.md)
+    * [What is Wallet Direct](bew-guides/beginers-guide/wallet-direct/what-is-wallet-direct.md)
+    * [How to set up Wallet Direct](bew-guides/beginers-guide/wallet-direct/introduction.md)
+    * [How to Withdraw Tokens from Binance.com with Wallet Direct?](bew-guides/beginers-guide/wallet-direct/how-to-withdraw-tokens-from-binance.com-with-wallet-direct.md)
+    * [How to Deposit Tokens from BEW to Binance.com with Wallet direct?](bew-guides/beginers-guide/wallet-direct/how-to-deposit-tokens-from-bew-to-binance.com-with-wallet-direct.md)
+    * [How to view your withdrawal history between paired accounts?](bew-guides/beginers-guide/wallet-direct/how-to-view-your-withdrawal-history-between-paired-accounts.md)
+  * [Binance DEX](bew-guides/beginers-guide/binance-dex/README.md)
+    * [How to Manage BEP2 tokens](bew-guides/beginers-guide/binance-dex/how-to-manage-bep2-tokens.md)
+    * [How to Migrate To Binance Extension Wallet](bew-guides/beginers-guide/binance-dex/how-to-migrate-to-binance-extension-wallet.md)
+    * [How to trade with Binance Chain Extension wallet](bew-guides/beginers-guide/binance-dex/how-to-trade-with-binance-chain-extension-wallet.md)
+  * [How to use Auto-lock Timer](bew-guides/beginers-guide/auto-lock-timer.md)
+* [Torus Key Management](bew-guides/torus-key-management/README.md)
+  * [How to Create a new tKey wallet](bew-guides/torus-key-management/how-to-create-a-new-tkey-wallet.md)
+  * [How to Reset the Password of your tKey Wallet](bew-guides/torus-key-management/how-to-reset-the-password-of-your-tkey-wallet.md)
+* [dApp Integration](bew-guides/dapp-interaction.md)
+* [Ethereum Network Support](bew-guides/ethereum-support/README.md)
+  * [What you can do with BEW](bew-guides/ethereum-support/what-you-can-do-with-bew.md)
+  * [How to Migrate to Binance Extension Wallet](bew-guides/ethereum-support/how-to-migrate-to-binance-extension-wallet.md)
+  * [How to Adjust Gas Price and Gas Limit](bew-guides/ethereum-support/how-to-adjust-gas-price-and-gas-limit.md)
 
 ## Developer Guide <a id="dev"></a>
 
 * [💻Guide](dev/introduction.md)
 * [API Documentation](dev/get-started.md)
-
-## Wallet Direct
-
-* [Wallet Direct Setup](wallet-direct/introduction.md)
-* [Guides](wallet-direct/guides.md)
-
-## Binance Chain Staking
-
-* [Binance Chain Staking Guides](binance-chain-staking/staking.md)
-* [Staking With Ledger Hardware](binance-chain-staking/staking-with-ledger-hardware.md)
-* [Binance Chain Staking API](binance-chain-staking/binance-chain-staking-api.md)
-* [FAQ](binance-chain-staking/faq.md)
-* [Fees](binance-chain-staking/fees.md)
-* [Binance Smart Chain Validators](https://www.binance.org/en/staking)
-* [Math Wallet tutorial](https://blog.mathwallet.org/?p=2054)
-* [Trust Wallet tutorial](https://community.trustwallet.com/t/bnb-staking-with-trust-wallet/113243)
-
-## torus
-
-* [How to Create a new tKey wallet](torus/how-to-create-a-new-tkey-wallet.md)
-* [How to Reset the Password of your tKey Wallet](torus/how-to-reset-the-password-of-your-tkey-wallet.md)
-
-## Binance DEX
-
-* [How to trade with Binance Chain Extension wallet](binance-dex/how-to-trade-with-binance-chain-extension-wallet.md)
-* [How to Manage BEP2 tokens](binance-dex/how-to-manage-bep2-tokens.md)
-* [How to Migrate To Binance Extension Wallet](binance-dex/how-to-migrate-to-binance-extension-wallet.md)
-
-## Best Practice
-
-* [How to Get Testnet BNB from Faucet](best-practice/untitled.md)
-* [Transfer Testnet BNB from BSC to BC](best-practice/transfer-testnet-bnb-from-bsc-to-bc.md)
-* [Transfer Testnet BNB from BC to BSC](best-practice/transfer-testnet-bnb-from-bc-to-bsc.md)
-* [How to recover my fund sent to the wrong network](best-practice/how-to-recover-my-fund.md)
-* [How to Adjust Gas Price and Gas Limit on Binance Smart Chain](best-practice/how-to-adjust-gas-price-and-gas-limit-on-binance-smart-chain.md)
+* [How to Get Testnet BNB from Faucet](dev/untitled.md)
 
 ## Useful Links
 

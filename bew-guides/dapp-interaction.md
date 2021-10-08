@@ -48,9 +48,12 @@ If you wish to replace MetaMask with Binance Chain extension wallet when trading
 
 ![](../.gitbook/assets/image%20%2867%29.png)
 
+##  Show contract function name in sign transaction popup
 
+  
+Instead of “Request" , the header is now the contract function name \(“get reward”, “withdraw” etc.\)
 
-
+![](../.gitbook/assets/image%20%2885%29.png)
 
 
 

@@ -6,6 +6,16 @@
 
 ## Binance Wallet Extesnion Release Note
 
+### Version 2.8.4.2 - 2021-10-05
+
+released on Firefox 
+
+#### Added
+
+* [Set up BEW with Ledger ](bew-guides/beginers-guide/how-to-use-hardware-wallets-with-bew/setup-your-wallet-with-ledger.md)
+* Show token price of [CoinMarketCap](bew-guides/beginers-guide/asset/how-to-get-token-price.md)
+* [Speed up](bew-guides/ethereum-support/speed-up-your-transactions.md) or [Cancel](bew-guides/ethereum-support/cancel-your-transactions.md) Ethereum transactions
+
 ### Version 2.7.0 - 2021-8-17
 
 released on Firefox and Chrome. 

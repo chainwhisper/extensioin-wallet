@@ -1,7 +1,6 @@
-# Connect to Ledger Hardware Wallet
+# Import Ledger Hardware Wallet Address
 
 {% hint style="warning" %}
-  
 Attention! 
 
 **Chrome** 91 breaks BEW Ledger support. If you updated Chrome to 91.0.4472.77, you'll need to upgrade your BEW to the latest.
@@ -23,7 +22,7 @@ Next:
 3. For BC network usage, select and open the **Binance Chain** Application. 
 4. Enabling contract data for BEP20. The first item in the settings menu is “Contract Data”. Push down both buttons to select it. Once you have set your ledger up like this the first time, you won’t have to do it again each time you want to use it with Binance Extension wallet.
 
-### For Binance Smart Chain usage
+### Import Binance Smart Chain Address
 
 * Open Binance Chain Extension Wallet and select "Binance Smart Chain" network
 * Choose "Hardware Wallet" in Settings. 
@@ -34,7 +33,7 @@ Next:
 
 ![](../../../.gitbook/assets/image%20%2856%29.png)
 
-### For Binance Chain Usage
+### Import Binance Chain Address
 
 * Open Binance Chain Extension Wallet and select "Binance  Chain" network
 

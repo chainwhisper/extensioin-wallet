@@ -4,7 +4,7 @@
 
 ### Alpha-version - coming soon
 
-## Binance Wallet Extesnion Release Note
+## Binance Wallet Extension Release Note
 
 ### Version 2.8.4.2 - 2021-10-05
 

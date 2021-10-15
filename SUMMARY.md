@@ -4,7 +4,7 @@
 * [📓Releases](release-log.md)
 * [🚥Roadmap](roadmaop.md)
 
-## BEW Guides and FAQ <a id="bew-guides"></a>
+## BEW Guides and FAQ <a href="bew-guides" id="bew-guides"></a>
 
 * [Beginner's Guide](bew-guides/beginers-guide/README.md)
   * [How to Install Binance Wallet Extension](bew-guides/beginers-guide/how-to-install-binance-wallet-extension.md)
@@ -81,7 +81,7 @@
   * [How to convert BEP20 tokens to ERC20 on Binance Wallet](bmw-guides-and-faq/defi/how-to-convert-bep20-tokens-to-erc20-on-binance-wallet.md)
   * [How to Farm on PancakeSwap on Binance Wallet](bmw-guides-and-faq/defi/how-to-farm-on-pancakeswap-on-binance-wallet.md)
 
-## Developer Guide <a id="dev"></a>
+## Developer Guide <a href="dev" id="dev"></a>
 
 * [💻Guide](dev/introduction.md)
 * [🛠️ API Documentation](dev/get-started.md)
@@ -90,11 +90,10 @@
 ## Useful Links
 
 * [Binance DEX](https://www.binance.org/en/trade)
-* [BscScan](https://bscscan.com/)
+* [BscScan](https://bscscan.com)
 * [Testnet Faucet](https://testnet.binance.org/faucet-smart/)
 
 ## Community Group
 
-* [Discord](https://discord.gg/9jsQJrfP5G%20%20%20)
-* [Telegram Group](https://t.me/joinchat/GSA1STd-X81w55_6)
-
+* [Discord](https://discord.gg/9jsQJrfP5G)
+* [Telegram Group](https://t.me/joinchat/GSA1STd-X81w55\_6)

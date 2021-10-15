@@ -8,7 +8,7 @@
 
 ### Version 2.8.4.2 - 2021-10-05
 
-released on Firefox 
+released on Firefox and Chrome
 
 #### Added
 
@@ -46,7 +46,7 @@ released on Firefox and Chrome.
 #### Added
 
 * Add a button to [add/hide asset at home screen](bew-guides/beginers-guide/asset/#how-to-remove-a-token)
-* Add  a link to[ BNB Staking]() for BC/BSC home screen
+* Add  a link to[ BNB Staking](broken-reference) for BC/BSC home screen
 
 #### Bugfix
 
@@ -66,10 +66,9 @@ released on Firefox and Chrome.
 
 #### Bugfix
 
-* Amount issue sending max amount bep20 assets from Binance Smart Chain
+*   Amount issue sending max amount bep20 assets from Binance Smart Chain
 
-   to Binance Chain
-
+     to Binance Chain
 * replace price API.
 
 ### Version 2.3.0 - 2021-6-23
@@ -83,7 +82,7 @@ released on Firefox and Chrome.
 * Users can add a customized token to home screen and load balance automatically.
 * Show QR code directly if wallet direct feature is not enabled.
 
-#### Bugfix ****
+#### Bugfix** **
 
 1. Support Ledger Live connection on Chrome v91 for BSC/ETH.
 2. Disable confirm until retrieve fee on send page.
@@ -140,11 +139,11 @@ released on Firefox.
 * Cannot change memo if an address is in recently cached
 * Insufficient balance issue when BSC cross-chain staking
 
-### Version 1.145.1 **** - 2021-5-7
+### Version 1.145.1** ** - 2021-5-7
 
 #### Added
 
-* Auto-add common assets when balance &gt; 0
+* Auto-add common assets when balance > 0
 * Support [hide/show](bew-guides/beginers-guide/acc/add-account.md) accounts.
 
 #### Fixed
@@ -157,7 +156,7 @@ released on Firefox.
 
 * Integrated with Torus to support Google account login wallet.
 
-### Version 1.141.6 **** - 2021-4-12
+### Version 1.141.6** ** - 2021-4-12
 
 #### Added
 
@@ -167,7 +166,7 @@ released on Firefox.
 
 * Fix send from BSC input amount will trigger send in middle.
 
-### Version 1.139.0 **** - 2021-3-26
+### Version 1.139.0** ** - 2021-3-26
 
 #### **Improvements**
 
@@ -239,7 +238,9 @@ display BNB 4 decimals on home screen.
 
 * Support Ethereum Mainnet
 * Support export private key for BC, BSC and Ethereum accounts
-* Support connected dApp site management
+*   Support connected dApp site management
+
+
 
 #### Changed
 
@@ -253,13 +254,13 @@ display BNB 4 decimals on home screen.
 
 #### Added
 
-* Support [https://binance.com/](https://binance.com/)[wallet direct](bew-guides/beginers-guide/wallet-direct/introduction.md)
+* Support [https://binance.com/](https://binance.com)[wallet direct](bew-guides/beginers-guide/wallet-direct/introduction.md)
 
 #### Version 1.121.1 - 2020-11-26
 
 #### Added
 
-* Add ****Ledger hardware wallet support for BSC accounts
+* Add** **Ledger hardware wallet support for BSC accounts
 * Add support to interact with dApp via ledger account
 
 #### Changed
@@ -273,8 +274,6 @@ display BNB 4 decimals on home screen.
 * Sending transaction performance improvement.
 * Support more than 8 accounts.
 * Some UI improvements.
-
-
 
 
 

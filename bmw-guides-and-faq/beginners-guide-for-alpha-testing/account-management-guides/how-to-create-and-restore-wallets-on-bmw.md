@@ -18,7 +18,7 @@ After logging in to the app’s home screen, you can create a Multi-chain wallet
 
 ![](../../../.gitbook/assets/2.png)
 
-Your new wallet will instantly be displayed on the home screen. 
+Your new wallet will instantly be displayed on the home screen.&#x20;
 
 Note: Seed phrases are crucial to your assets. Store this information carefully.
 
@@ -26,13 +26,11 @@ Note: Seed phrases are crucial to your assets. Store this information carefully.
 
 Already had a wallet before? You can easily restore it in simple steps:
 
-Step 1: Click **Import Wallet** on home screen.
+Step 1: Click** Import Wallet** on home screen.
 
-Step 2: Input your seed phrase, then click Import Wallet.  
+Step 2: Input your seed phrase, then click Import Wallet.\
 
 
 ![](../../../.gitbook/assets/3.png)
 
-**Well done! Now you are ready to go!**   
-
-
+**Well done! Now you are ready to go! **\

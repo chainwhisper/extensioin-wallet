@@ -1,6 +1,6 @@
 # Connection Issue with Ledger
 
-The latest Google Chrome release ([Chrome 91](https://chromium.googlesource.com/chromium/src/+log/90.0.4430.212..91.0.4472.77?pretty=fuller\&n=10000))  causes U2F transport issues on third-party wallets like MetaMask for Mac and Linux users. Due to this issue, you might experience issues when trying to connect to BEW wallet.&#x20;
+The latest Google Chrome release ([Chrome 91](https://chromium.googlesource.com/chromium/src/+log/90.0.4430.212..91.0.4472.77?pretty=fuller\&n=10000))  causes U2F transport issues on third-party wallets like MetaMask for Mac and Linux users. Due to this issue, you might experience issues when trying to connect to Binance Wallet Extension.&#x20;
 
 This issue also affects other Chromium browsers (Brave, Microsoft Edge, etc…) on the same version.&#x20;
 
@@ -8,13 +8,13 @@ Considering those changes significantly altering the user experience and the ava
 
 ### Before you start
 
-* Make sure you are using the latest version of BEW (v2.4.0).&#x20;
+* Make sure you are using the latest version of Binance Wallet Extension (v2.4.0).&#x20;
 
 ## Fix connection issues of Chrome
 
 ![](../../../.gitbook/assets/ezgif-3-8388cfb9e5fd.gif)
 
-### Pair Binance Chain extension wallet with your Ledger hardware wallet
+### Pair Binance Wallet extension with your Ledger hardware wallet
 
 Chrome lets you connect a website to your Bluetooth and USB devices.&#x20;
 

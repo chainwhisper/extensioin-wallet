@@ -5,7 +5,7 @@ This is an example of a Firefox browser.&#x20;
 * Open Extension in Firefox: [https://addons.mozilla.org/en-US/firefox/addon/binance-chain/?src=search](https://addons.mozilla.org/en-US/firefox/addon/binance-chain/?src=search)
 * Search for Binance Chain
 
-![](<../../.gitbook/assets/image (87).png>)
+![](<../../.gitbook/assets/image (87) (1).png>)
 
 Note: Make sure it’s offered by Binance Chain
 
@@ -19,9 +19,20 @@ That’s it! You have successfully installed the Binance Wallet extension in Fir
 The workflow is the same for all browsers
 {% endhint %}
 
+## How to install Binance Wallet Extension in Edge
 
+* Open Chrome App Store Link: [https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp](https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp) in Edge browser
 
+![](<../../.gitbook/assets/image (88).png>)
 
+* Click button to Allow extension from Chrome web store
 
+![](<../../.gitbook/assets/image (89).png>)
 
+* Click "Add to Edge" and allow installation
 
+![](<../../.gitbook/assets/image (90).png>)
+
+* Install complete!
+
+![](<../../.gitbook/assets/image (87).png>)

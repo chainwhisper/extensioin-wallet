@@ -96,7 +96,7 @@ released on Firefox and Chrome.&#x20;
 * Users can add a customized token to home screen and load balance automatically.
 * Show QR code directly if wallet direct feature is not enabled.
 
-#### Bugfix** **
+#### Bugfix ****&#x20;
 
 1. Support Ledger Live connection on Chrome v91 for BSC/ETH.
 2. Disable confirm until retrieve fee on send page.
@@ -153,7 +153,7 @@ released on Firefox.&#x20;
 * Cannot change memo if an address is in recently cached
 * Insufficient balance issue when BSC cross-chain staking
 
-### Version 1.145.1** ** - 2021-5-7
+### Version 1.145.1 **** - 2021-5-7
 
 #### Added
 
@@ -170,7 +170,7 @@ released on Firefox.&#x20;
 
 * Integrated with Torus to support Google account login wallet.
 
-### Version 1.141.6** ** - 2021-4-12
+### Version 1.141.6 **** - 2021-4-12
 
 #### Added
 
@@ -180,7 +180,7 @@ released on Firefox.&#x20;
 
 * Fix send from BSC input amount will trigger send in middle.
 
-### Version 1.139.0** ** - 2021-3-26
+### Version 1.139.0 **** - 2021-3-26
 
 #### **Improvements**
 
@@ -274,7 +274,7 @@ display BNB 4 decimals on home screen.
 
 #### Added
 
-* Add** **Ledger hardware wallet support for BSC accounts
+* Add **** Ledger hardware wallet support for BSC accounts
 * Add support to interact with dApp via ledger account
 
 #### Changed

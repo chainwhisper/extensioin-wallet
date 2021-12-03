@@ -10,7 +10,7 @@ Once you've [added the asset ](beginers-guide/asset/)to your wallet, you will be
 
 ### 2. How Much BNB You Need To Send Tokens on BSC
 
-A standard Ether transfer TX will be 21000 gas & a gas price of 5 GWEI. With tokens, the amount of gas is typically gas, so the total TX fee increases to **0.0005 BNB **- **0.0006 BNB**.
+A standard Ether transfer TX will be 21000 gas & a gas price of 5 GWEI. With tokens, the amount of gas is typically gas, so the total TX fee increases to **0.0005 BNB** - **0.0006 BNB**.
 
 if you try to send tokens without having any BNB in your account you will be told you have insufficient funds. This means you do not have enough BNB in your account to cover the cost of gas. Each transaction (including token and contract transactions) require gas and that gas is paid in BNB. You can think of this like a transaction fee.
 
@@ -22,14 +22,14 @@ Yes, you can now.
 
 ### 4.  Recover fund send to Ethereum network
 
-**If the fund is sent to one of your existing accounts, please **
+**If the fund is sent to one of your existing accounts, please**&#x20;
 
 * ****[Switch ](beginers-guide/switch-network.md)to Ethereum  network
 * [Add your asset](beginers-guide/asset/#how-to-add-a-custom-token)&#x20;
 
 Then you should see your tokens in asset list.&#x20;
 
-**If it's sent to accounts in a different wallet, please **
+**If it's sent to accounts in a different wallet, please**&#x20;
 
 * Export seed phrase of this account&#x20;
 * [Recover your account](beginers-guide/acc/recover.md) in Binance Extension Wallet

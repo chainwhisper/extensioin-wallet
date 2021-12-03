@@ -25,7 +25,7 @@ Example: Install Binance Wallet Extension in Firefox browser
 * Open Extension in Firefox: [https://addons.mozilla.org/en-US/firefox/addon/binance-chain/?src=search](https://addons.mozilla.org/en-US/firefox/addon/binance-chain/?src=search)
 * Search for Binance Chain
 
-![](<.gitbook/assets/image (86).png>)
+![](<.gitbook/assets/image (86) (1).png>)
 
 Note: Make sure it’s offered by Binance Chain
 

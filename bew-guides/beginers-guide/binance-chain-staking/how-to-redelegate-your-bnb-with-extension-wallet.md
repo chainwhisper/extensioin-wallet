@@ -1,4 +1,4 @@
-# How to redelegate your BNB with extension wallet
+# How to redelegate your BNB with Binance Wallet Extension
 
 {% hint style="info" %}
 Your BNB are still staked
@@ -10,7 +10,7 @@ You can choose to move your staked BNB to a different validator by sending a _**
 You cannot redelegate too frequently
 {% endhint %}
 
-Redelegations between a unique delegator, source validator, and destination validator can only happen once every** 7 days**
+Redelegations between a unique delegator, source validator, and destination validator can only happen once every **7 days**
 
 * Click on redelegate
 

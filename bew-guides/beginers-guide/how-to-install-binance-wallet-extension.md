@@ -31,7 +31,7 @@ The workflow is the same for all browsers
 
 * Click "Add to Edge" and allow installation
 
-![](<../../.gitbook/assets/image (90).png>)
+![](<../../.gitbook/assets/image (90) (1).png>)
 
 * Install complete!
 

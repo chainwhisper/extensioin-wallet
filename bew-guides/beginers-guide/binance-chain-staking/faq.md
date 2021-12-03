@@ -51,7 +51,7 @@ After you sent \`undelegate\` transaction, you have to wait 7 days. This period 
 
 You can choose to move your staked BNB to a different validator by sending a _**redelegate**_ transaction. For example, you can redelegate from validator A to validator B.  Your BNB are still staked, and you can receive rewards from validator B since next 00:00 UTC
 
-Redelegations between a unique delegator, source validator, and destination validator can only happen once every** 7 days**
+Redelegations between a unique delegator, source validator, and destination validator can only happen once every **7 days**
 
 ## What's the potential loss for validators?
 
@@ -64,7 +64,7 @@ Slashing is a punitive function that is triggered by a validator's bad actions. 
 * Going offline or unable to communicate with the network.
 * Double signing. If a validator node tries to split the network by signing two different blocks and broadcasting them, it will be removed from the validator set definitely.
 
-**Details: **[**https://docs.binance.org/guides/concepts/bc-slashing.html**](https://docs.binance.org/guides/concepts/bc-slashing.html)****
+**Details:** [**https://docs.binance.org/guides/concepts/bc-slashing.html**](https://docs.binance.org/guides/concepts/bc-slashing.html)****
 
 ## What's the potential loss for **delegators**?
 

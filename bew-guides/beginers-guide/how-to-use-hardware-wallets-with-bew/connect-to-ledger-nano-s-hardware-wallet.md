@@ -13,7 +13,7 @@ Since v1.121.1, Binance Wallet Extension is released with Ledger Nano S and X su
 * [Ledger Nano S](https://shop.ledger.com/products/ledger-nano-s) or [Ledger nano X](https://shop.ledger.com/pages/ledger-nano-x)
 * Up to date Chrome or Firefox installed
 * Binance Wallet Extension v1.21.1 or later installed
-* Binance Wallet Extension should **already have initialized **with an account&#x20;
+* Binance Wallet Extension should **already have initialized** with an account&#x20;
 
 Next:
 

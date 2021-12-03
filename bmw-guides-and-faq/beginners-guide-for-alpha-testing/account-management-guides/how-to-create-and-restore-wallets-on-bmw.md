@@ -26,11 +26,11 @@ Note: Seed phrases are crucial to your assets. Store this information carefully.
 
 Already had a wallet before? You can easily restore it in simple steps:
 
-Step 1: Click** Import Wallet** on home screen.
+Step 1: Click **Import Wallet** on home screen.
 
 Step 2: Input your seed phrase, then click Import Wallet.\
 
 
 ![](../../../.gitbook/assets/3.png)
 
-**Well done! Now you are ready to go! **\
+**Well done! Now you are ready to go!** \

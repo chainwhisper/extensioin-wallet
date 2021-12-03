@@ -13,7 +13,7 @@ This feature is only available since v1.143.2
 ![](<../../.gitbook/assets/image (34).png>)
 
 {% hint style="danger" %}
-**If your account is already created, please back your seed phrase first. Otherwise, your accounts will be overwritten. **
+**If your account is already created, please back your seed phrase first. Otherwise, your accounts will be overwritten.**&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (35).png>)

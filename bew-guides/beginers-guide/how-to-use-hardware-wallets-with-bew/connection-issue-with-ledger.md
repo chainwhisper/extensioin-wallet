@@ -35,7 +35,7 @@ If the approval page is not open automatically, you can open it manually with th
 
 To remove a website's access to your USB devices, follow these steps:
 
-**First, go to **chrome://settings/content/usbDevices?search=device&#x20;
+**First, go to** chrome://settings/content/usbDevices?search=device&#x20;
 
 ![](<../../../.gitbook/assets/image (63).png>)
 

@@ -242,7 +242,7 @@ BinanceChain
 
 ### BinanceChain.bnbSign(address: string, message: string): Promise<{publicKey: string, signature: string}>
 
-_We prepared an example for this API, please check out: _[https://github.com/binance-chain/js-eth-personal-sign-examples](https://github.com/binance-chain/js-eth-personal-sign-examples)_ for more detail_
+_We prepared an example for this API, please check out:_ [https://github.com/binance-chain/js-eth-personal-sign-examples](https://github.com/binance-chain/js-eth-personal-sign-examples) _for more detail_
 
 Like `eth_sign` enable dapp to verify a user has control over an ethereum address by signing an arbitrary message. We provide this method for dapp developers to request the signature of arbitrary messages for Binance Chain (BC) and Binance Smart Chain (BSC).
 

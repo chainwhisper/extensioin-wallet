@@ -63,6 +63,7 @@
   * [Speed up your Transactions](bew-guides/ethereum-support/speed-up-your-transactions.md)
   * [Cancel your Transactions](bew-guides/ethereum-support/cancel-your-transactions.md)
   * [How to Adjust Gas Price and Gas Limit](bew-guides/ethereum-support/how-to-adjust-gas-price-and-gas-limit.md)
+* [How to set your transaction fee?](bew-guides/how-to-set-your-transaction-fee.md)
 * [❓FAQ](bew-guides/faq.md)
 
 ## BMW Guides and FAQ

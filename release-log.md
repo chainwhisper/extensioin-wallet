@@ -6,7 +6,20 @@
 
 ## Binance Wallet Extension Release Note
 
-### Version 2.9.7 - 2021-11-08
+### Version 2.10.1 - 2021-12-16
+
+released on Firefox
+
+#### Added
+
+* Support [EIP-1559](bew-guides/ethereum-support/how-to-adjust-gas-price-and-gas-limit.md#background)
+* Add BEW Swap
+
+**Bugfix**
+
+* Fix some issues with Wallet Direct
+
+### Version 2.9.9 - 2021-11-08
 
 released on Firefox and Chrome
 

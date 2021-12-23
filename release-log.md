@@ -8,7 +8,7 @@
 
 ### Version 2.10.1 - 2021-12-16
 
-released on Firefox
+released on Firefox and Chrome
 
 #### Added
 

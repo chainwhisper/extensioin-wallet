@@ -13,7 +13,7 @@ released on Firefox and Chrome
 #### Added
 
 * Support [EIP-1559](bew-guides/ethereum-support/how-to-adjust-gas-price-and-gas-limit.md#background)
-* Add support for [AMM DEX](bew-guides/beginers-guide/how-to-trade-with-pancakeswap-natively-on-bew.md) natively
+* Add support for [PanncakeSwap](bew-guides/beginers-guide/how-to-trade-with-pancakeswap-natively-on-bew.md) and [Uniswap](bew-guides/ethereum-support/how-to-trade-with-uniswap-natively-on-bew.md) natively
 
 **Bugfix**
 

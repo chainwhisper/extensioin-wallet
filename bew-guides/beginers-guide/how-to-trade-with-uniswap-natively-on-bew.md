@@ -1,14 +1,12 @@
-# How to trade with PancakeSwap natively on BEW
+# How to trade with Uniswap natively on BEW
 
-Binance Wallet has integrated PancakeSwap, an AMM built on Binance Smart Chain. Users can now trade with PancakeSwap V2 natively on BEW.
+Binance Wallet has integrated **Uniswap**, an AMM built on Ethereum. Users can now trade with Uniswap V2 natively on BEW.
 
-Step 1: Open BEW and Select Binance Smart Chain mainnet
+Step 1: Open BEW and Select Ethereum mainnet
 
-Step 2: click **Swap** at the home screen. You can trade on **PancakeSwap** V2.
+Step 2: click **Swap** at the home screen. You can trade on **Uniswap** V2.
 
-![](<../../.gitbook/assets/1-1 Swap.png>)
-
-
+![](<../../.gitbook/assets/image (89).png>)
 
 Now, you have to fill in trading information:
 
@@ -17,7 +15,7 @@ Now, you have to fill in trading information:
 
 Step 3: Click **Approve**, then **Swap** to complete.
 
-****
+****![](<../../.gitbook/assets/image (87).png>)****
 
 ****
 

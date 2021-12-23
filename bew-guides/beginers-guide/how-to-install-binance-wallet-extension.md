@@ -5,7 +5,7 @@ This is an example of a Firefox browser.&#x20;
 * Open Extension in Firefox: [https://addons.mozilla.org/en-US/firefox/addon/binance-chain/?src=search](https://addons.mozilla.org/en-US/firefox/addon/binance-chain/?src=search)
 * Search for Binance Chain
 
-![](<../../.gitbook/assets/image (87) (1).png>)
+![](<../../.gitbook/assets/image (87) (1) (1).png>)
 
 Note: Make sure it’s offered by Binance Chain
 
@@ -27,7 +27,7 @@ The workflow is the same for all browsers
 
 * Click button to Allow extension from Chrome web store
 
-![](<../../.gitbook/assets/image (89).png>)
+![](<../../.gitbook/assets/image (89) (1).png>)
 
 * Click "Add to Edge" and allow installation
 
@@ -35,4 +35,4 @@ The workflow is the same for all browsers
 
 * Install complete!
 
-![](<../../.gitbook/assets/image (87).png>)
+![](<../../.gitbook/assets/image (87) (1).png>)

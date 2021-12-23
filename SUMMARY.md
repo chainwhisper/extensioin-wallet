@@ -52,6 +52,7 @@
     * [How to trade with Binance Chain Extension wallet](bew-guides/beginers-guide/binance-dex/how-to-trade-with-binance-chain-extension-wallet.md)
   * [Fiat On-Ramp](bew-guides/beginers-guide/fiat-on-ramp.md)
   * [How to trade with PancakeSwap natively on BEW](bew-guides/beginers-guide/how-to-trade-with-pancakeswap-natively-on-bew.md)
+  * [How to trade with Uniswap natively on BEW](bew-guides/beginers-guide/how-to-trade-with-uniswap-natively-on-bew.md)
   * [How to use Auto-lock Timer](bew-guides/beginers-guide/auto-lock-timer.md)
 * [Open Popup Page](bew-guides/open-popup-page.md)
 * [Torus Key Management](bew-guides/torus-key-management/README.md)

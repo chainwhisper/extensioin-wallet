@@ -31,3 +31,23 @@ Once your trade is executed, you can find the asset added on your home screen an
 
 
 
+### How to Choose Customized Asset
+
+When searching your assets, you can input the contract address in the box
+
+![](<../../.gitbook/assets/1- Select Asset.png>)
+
+
+
+Then, if the contract address is valid, you should see the asset name and logo as returned results.
+
+![](<../../.gitbook/assets/1-1 paste address.png>)
+
+Click "Import" to add this new asset.
+
+![](<../../.gitbook/assets/1-2 comfirm asset.png>)
+
+
+
+
+

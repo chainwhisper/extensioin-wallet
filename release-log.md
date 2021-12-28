@@ -6,6 +6,18 @@
 
 ## Binance Wallet Extension Release Note
 
+### Version 2.10.2 - 2021-12-16
+
+released on Firefox and Chrome
+
+#### Added
+
+* Improve the workflow of [choosing swap assets](bew-guides/beginers-guide/how-to-trade-with-pancakeswap-natively-on-bew.md#how-to-choose-customized-asset)
+
+**Bugfix**
+
+* Fix some issues when swapping native token
+
 ### Version 2.10.1 - 2021-12-16
 
 released on Firefox and Chrome

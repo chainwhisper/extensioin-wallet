@@ -6,7 +6,7 @@ Step 1: Open BEW and Select Ethereum mainnet
 
 Step 2: click **Swap** at the home screen. You can trade on **Uniswap** V2.
 
-![](<../../.gitbook/assets/image (89).png>)
+![](<../../.gitbook/assets/image (89) (1).png>)
 
 Now, you have to fill in trading information:
 

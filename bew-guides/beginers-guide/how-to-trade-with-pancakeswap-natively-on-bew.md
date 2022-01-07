@@ -15,21 +15,27 @@ Now, you have to fill in trading information:
 * Choose your trading pair from the list.
 * For those tokens that haven’t been added to your home screen, you can still trade using their contract addresses.
 
-Step 3: Click **Approve**, then **Swap** to complete.
+Step 3: Click **Approve** if it's your first time trading this token
+
+&#x20;**** ![](<../../.gitbook/assets/image (91).png>)
 
 ****
 
-****
+Step 4**:** Click **Swap** and confirm all the info **** to complete.
+
+****![](<../../.gitbook/assets/image (88).png>)****
+
+**That's it!** Your trade was sent to the network.&#x20;
+
+****![](<../../.gitbook/assets/image (89).png>)****
+
+Once your trade is executed, you can find the asset added on your home screen and you can see this trade under **Activity**.
 
 **Note:**
 
 * The default gas fee on BEW has been set for the **Fast** speed with the most reasonable speed.
 * You can also adjust the gas fee and slippage by clicking the settings icon at the top right corner of the trading interface.
 * Slippage is one of the reasons that lead to failed transactions. If your slippage is too high, your trade will not go through.
-
-Once your trade is executed, you can find the asset added on your home screen and you can see this trade under **Activity**.
-
-
 
 ### How to Choose Customized Asset
 

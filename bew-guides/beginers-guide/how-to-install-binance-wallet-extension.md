@@ -23,11 +23,11 @@ The workflow is the same for all browsers
 
 * Open Chrome App Store Link: [https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp](https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp) in Edge browser
 
-![](<../../.gitbook/assets/image (88).png>)
+![](<../../.gitbook/assets/image (88) (1).png>)
 
 * Click button to Allow extension from Chrome web store
 
-![](<../../.gitbook/assets/image (89) (1).png>)
+![](<../../.gitbook/assets/image (89) (1) (1).png>)
 
 * Click "Add to Edge" and allow installation
 
